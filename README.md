@@ -2,7 +2,7 @@
 
 ## Overview
 
-The EIA API App is a Python library that provides access to the Energy Information Administration (EIA) API<sup>1</sup>. You need to have an API key to use the EIA API.
+The **EIA API App** is a Python library that provides access to the Energy Information Administration (EIA) API<sup>1</sup>. You need to have an API key to use the EIA API.
 
 ## Description
 
