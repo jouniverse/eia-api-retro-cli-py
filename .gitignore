@@ -1,0 +1,16 @@
+.DS_Store
+*.mp4
+.venv/
+__pycache__/
+api-structure/
+data/
+data-dump/
+functions/
+main-imgs/
+metadata/
+notebooks/
+notes/
+main-output/
+response-examples/
+temp-data/
+

@@ -1,0 +1,1478 @@
+seriesId,seriesDescription,unit
+RAIMUUS_RP,Imported  Crude Oil Real Price,real dollars per barrel
+PAPR_NO,"Crude Oil and Liquid Fuels Supply, Norway",million barrels per day
+CGSP_ESC,Real Gross State Product E. S. Central,billion chained 2017 dollars (seasonally-adjusted annual rate)
+CGSP_MAC,Real Gross State Product Middle Atlantic,billion chained 2017 dollars (seasonally-adjusted annual rate)
+CGSP_NEC,Real Gross State Product New England,billion chained 2017 dollars (seasonally-adjusted annual rate)
+CGSP_WNC,Real Gross State Product W. N. Central,billion chained 2017 dollars (seasonally-adjusted annual rate)
+COUNPUS,Crude Oil Adjustment,million barrels per day
+CYRPIC_MTN,Real Personal Income Mountain,billion chained 2017 dollars (seasonally-adjusted annual rate)
+CYRPIC_NEC,Real Personal Income New England,billion chained 2017 dollars (seasonally-adjusted annual rate)
+PADI_OPEC,"Unplanned crude oil production disruptions, Organization of the Petroleum Exporting Countries",million barrels per day
+EE_ESC,Total Non-Farm Employment E. S. Central,millions
+ESCMU_NEC,"Retail Price of Electricity in Commercial Sector, New England",cents per kilowatt hour
+ESCMU_SAC,"Retail Price of Electricity in Commercial Sector, South Atlantic",cents per kilowatt hour
+ESICU_WNC,"Retail Price of Electricity in Industrial Sector, West North Central",cents per kilowatt hour
+ESRCU_MAC,"Retail Price of Electricity in Residential Sector, Middle Atlantic",cents per kilowatt hour
+ESRCU_MTN,"Retail Price of Electricity in Residential Sector, Mountain",cents per kilowatt hour
+ESTCU_US,"Retail Price of Electricity for All Sectors, U.S. Total",cents per kilowatt hour
+ESTCU_WSC,"Retail Price of Electricity for All Sectors, West South Central",cents per kilowatt hour
+EXACP_ESC,"Retail Sales of Electricity in Transportation Sector, East South Central",million kilowatthours per day
+EE_NEC,Total Non-Farm Employment New England,millions
+ZWHD_WSC,Heating Degree Days W. S. Central,total degree days
+ZWHD_NEC,Heating Degree Days New England,total degree days
+ZWHD_MTN,Heating Degree Days Mountain,total degree days
+CYRPIC_ESC,Real Personal Income E. S. Central,billion chained 2017 dollars (seasonally-adjusted annual rate)
+NGRCU_NEC,"Retail Price of Natural Gas in Residential Sector, New England",dollars per thousand cubic feet
+T3B_PAPR_R05,"Crude Oil and Liquid Fuels Supply, Total Middle East ",million barrels per day
+T3B_PAPR_R06,"Crude Oil and Liquid Fuels Supply, Total Africa ",million barrels per day
+T3B_PAPR_R07,"Crude Oil and Liquid Fuels Supply, Total Asia and Oceania  ",million barrels per day
+T3_STCHANGE_NOECD,"Net Inventory Withdrawals, Total Non-OECD Crude Oil and Other Liquids",million barrels per day
+T3_STCHANGE_US,"Net Inventory Withdrawals, Total U.S. (50 States) Crude Oil and Other Liquids",million barrels per day
+T3_STCHANGE_WORLD,"Net Inventory Withdrawals, Total World Crude Oil and Other Liquids",million barrels per day
+WP57IUS,Producer Price Index: Petroleum,"Index, 1982=1.00"
+ZOTOIUS,Total Industrial Production Index,"Index, 2017=100 (seasonally adjusted)"
+ZWCD_ESC,Cooling Degree Days E. S. Central,total degree days
+ZWCD_MTN,Cooling Degree Days Mountain,total degree days
+ZWCD_NEC,Cooling Degree Days New England,total degree days
+ZWCD_WSC,Cooling Degree Days W. S. Central,total degree days
+ZO327IUS,"Stone, Clay, Glass, and Concrete Products Production Index","Index, 2017=100 (seasonally adjusted)"
+ZO331IUS,Primary Metals Production Index,"Index, 2017=100 (seasonally adjusted)"
+ZO3252IUS,Resins and Synthetic Rubber Production Index,"Index, 2017=100 (seasonally adjusted)"
+ZO3253IUS,Agricultural Chemicals Production Index,"Index, 2017=100 (seasonally adjusted)"
+QSIC_NG_PCT,Natural Gas-weighted Industrial Production Index,Percent change from prior year
+EXACP_MAC,"Retail Sales of Electricity in Transportation Sector, Middle Atlantic",million kilowatthours per day
+EXACP_MTN,"Retail Sales of Electricity in Transportation Sector, Mountain",million kilowatthours per day
+EXACP_NEC,"Retail Sales of Electricity in Transportation Sector, New England",million kilowatthours per day
+EXACP_PAC,"Retail Sales of Electricity in Transportation Sector, Pacific Contiguous",million kilowatthours per day
+HOFPPUS,Hydrogen and Other Hydrocarbons Adjustments,million barrels per day
+ETTCPUS,Ethane/Ethylene Product Supplied,million barrels per day
+LXTCPUS,Propane and Heavier Liquefied Petroleum Gas Product Supplied,million barrels per day
+FETCPUS,Petrochemical Feedstocks Product Supplied,million barrels per day
+PCTCPUS,Petroleum Coke Product Supplied,million barrels per day
+ARTCPUS,Asphalt and Road Oil Product Supplied,million barrels per day
+SGTCPUS,Still Gas Product Supplied,million barrels per day
+MZTCPUS,Other Liquid Fuels Product Supplied,million barrels per day
+EORIPUS,Fuel Ethanol Refinery and Blender Net Inputs,million barrels per day
+RNRIPUS,Renewable Fuels Except Fuel Ethanol Refinery and Blender Net Inputs,million barrels per day
+HORIPUS,Hydrogen and Other Hydrocarbons Refinery and Blender Net Inputs,million barrels per day
+CXTCCO2,Carbon Dioxide Emissions from Coal,million metric tons
+FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,million metric tons
+NGTCCO2,Carbon Dioxide Emissions from Natural Gas,million metric tons
+PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,million metric tons
+ESRCU_US,"Retail Price of Electricity in Residential Sector, U.S. Average",cents per kilowatt hour
+BMEPGEN_FL,"Electric power sector net generation from biomass, Florida (FRCC)",billion kilowatthours
+RTEPGEN_FL,"Electric power sector net generation from renewable energy (all types), Florida (FRCC)",billion kilowatthours
+RNEPGEN_FL,"Electric power sector net generation from renewables excluding hydropower, Florida (FRCC)",billion kilowatthours
+RNFPPUS,Renewable Fuels Except Fuel Ethanol Adjustments,million barrels per day
+HPEPTOT,Electric Power Sector Generation from Pumped Storage Hydroelectric,billion kilowatthours per day
+EOFPPUS,Fuel Ethanol Adjustments,million barrels per day
+HONIPUS,Hydrogen and Other Hydrocarbons Net Imports,million barrels per day
+EXACP_WNC,"Retail Sales of Electricity in Transportation Sector, West North Central",million kilowatthours per day
+EXACP_WSC,"Retail Sales of Electricity in Transportation Sector, West South Central",million kilowatthours per day
+EXCCP_MAC,"Retail Sales of Electricity in Commercial Sector, Middle Atlantic",million kilowatthours per day
+EXCCP_NEC,"Retail Sales of Electricity in Commercial Sector, New England",million kilowatthours per day
+EXICP_ESC,"Retail Sales of Electricity in Industrial Sector, East South Central",million kilowatthours per day
+EXICP_MAC,"Retail Sales of Electricity in Industrial Sector, Middle Atlantic",million kilowatthours per day
+EXICP_WNC,"Retail Sales of Electricity in Industrial Sector, West North Central",million kilowatthours per day
+EXRCP_ESC,"Retail Sales of Electricity in Residential Sector, East South Central",million kilowatthours per day
+EXTCP_MAC,"Retail Sales of Electricity in All Sectors, Middle Atlantic",million kilowatthours per day
+EXTCP_SAC,"Retail Sales of Electricity in All Sectors, South Atlantic",million kilowatthours per day
+EXTCP_WSC,"Retail Sales of Electricity in All Sectors, West South Central",million kilowatthours per day
+MGROPUS,Finished Motor Gasoline Refinery Output,million barrels per day
+MGTSPP5,Total Motor Gasoline PADD 5 (West Coast) Inventory,"million barrels, end-of-period"
+NGACPUS,Natural Gas Pipeline and Distribution Use,billion cubic feet per day
+NGCCU_MTN,"Retail Price of Natural Gas in Commercial Sector, Mountain",dollars per thousand cubic feet
+OXNIPUS,Oxygenates (excluding Fuel Ethanol) Net Imports,million barrels per day
+PPPRPUS,Natural Gasoline (Pentanes Plus) Renewable Fuels and Oxygenanted Plant Net Production,million barrels per day
+OXPRPUS,Oxygenates (excluding Fuel Ethanol) Plant Net Production,million barrels per day
+RNNIPUS,Renewable Fuels Except Fuel Ethanol Net Imports,million barrels per day
+OXFPPUS,Oxygenates (excluding Fuel Ethanol) Adjustments,million barrels per day
+PAEPGEN_FL,"Electric power sector net generation from petroleum, Florida (FRCC)",billion kilowatthours
+GETOPUS,Generation from Geothermal by All Sectors,billion kilowatthours per day
+EXCCP_ENC,"Retail Sales of Electricity in Commercial Sector, East North Central",million kilowatthours per day
+NGRCP_NEC,"Natural Gas Consumption Residential Sector, New England",billion cubic feet per day
+NGRCP_PAC,"Natural Gas Consumption Residential Sector, Pacific",billion cubic feet per day
+NGRCP_WNC,"Natural Gas Consumption Residential Sector, W. N. Central",billion cubic feet per day
+NGRCUUS,"Retail price of natural gas in the residential sector, U.S. average",dollars per thousand cubic feet
+NGRCU_MAC,"Retail Price of Natural Gas in Residential Sector, Middle Atlantic",dollars per thousand cubic feet
+NGRCU_MTN,"Retail Price of Natural Gas in Price Residential Sector, Mountain",dollars per thousand cubic feet
+NGRCU_WNC,"Retail Price of Natural Gas in Residential Sector, W. N. Central",dollars per thousand cubic feet
+NGSFPUS,Supplemental Gaseous Fuels Supply,billion cubic feet per day
+NGRCP_ESC,"Natural Gas Consumption Residential Sector, E. S. Central",billion cubic feet per day
+NGWGPUS,Natural Gas Working Inventory U.S. Total,"billion cubic feet, end-of-period"
+OGEPTOT,Electric power sector generation from other fossil gases,billion kilowatthours per day
+ORCAPUS,Refinery Operable Distillation Capacity  ,million barrels per day
+OTCEPUS,Commercial Sector Generation from Other Nonrenewable Fuels,billion kilowatthours per day
+PAPR_BR,"Crude Oil and Liquid Fuels Supply, Brazil",million barrels per day
+PAPR_EK,"Crude Oil and Liquid Fuels Supply, Equatorial Guinea",million barrels per day
+PAPR_MU,"Crude Oil and Liquid Fuels Supply, Oman",million barrels per day
+PAPR_YM,"Crude Oil and Liquid Fuels Supply, Yemen",million barrels per day
+PAROPUS,Total Refinery Output,million barrels per day
+NUEPTOT,Electric Power Sector Generation from Nuclear,billion kilowatthours per day
+NGRCP_ENC,"Natural Gas Consumption Residential Sector, E. N. Central",billion cubic feet per day
+NGINX_WNC,"Natural Gas Consumption Industrial Sector, W. N. Central",billion cubic feet per day
+NGINX,"Natural Gas Consumption Industrial Sector, U.S. Total",billion cubic feet per day
+MGRARUS,"Gasoline Regular Grade Retail Price Incl Taxes, U.S. Average",cents per gallon
+MGTSPP1,Total Motor Gasoline PADD 1 (East Coast) Inventory,"million barrels, end-of-period"
+MGWHUUS,Refiner Wholesale Gasoline Price,cents per gallon
+NGCCPUS,"Natural Gas Consumption Commercial Sector, U.S. Total",billion cubic feet per day
+NGCCP_ESC,"Natural Gas Consumption Commercial Sector, E. S. Central",billion cubic feet per day
+NGCCP_NEC,"Natural Gas Consumption Commercial Sector, New England",billion cubic feet per day
+NGCCP_PAC,"Natural Gas Consumption Commercial Sector, Pacific",billion cubic feet per day
+NGCCP_WNC,"Natural Gas Consumption Commercial Sector, W. N. Central",billion cubic feet per day
+NGCCU_ESC,"Retail Price of Natural Gas in Commercial Sector, E. S. Central",dollars per thousand cubic feet
+NGCCU_PAC,"Retail Price of Natural Gas in Commercial Sector, Pacific",dollars per thousand cubic feet
+NGCCU_SAC,"Retail Price of Natural Gas in Commercial Sector, S. Atlantic",dollars per thousand cubic feet
+NGCOPUS,Industrial Sector Generation from Natural Gas,billion kilowatthours per day
+NGEPCON,"Natural Gas Consumption Electric Power Sector, U.S. Total",billion cubic feet per day
+NGHHMCF,Natural Gas Henry Hub Spot Price ($/mcf),dollars per thousand cubic feet
+NGICU_ENC,"Retail Price of Natural Gas in Industrial Sector, E. N. Central",dollars per thousand cubic feet
+NGICU_MAC,"Retail Price of Natural Gas in Industrial Sector, Middle Atlantic",dollars per thousand cubic feet
+NGICU_NEC,"Retail Price of Natural Gas in Industrial Sector, New England",dollars per thousand cubic feet
+NGICU_PAC,"Retail Price of Natural Gas in Industrial Sector, Pacific",dollars per thousand cubic feet
+NGICU_WNC,"Retail Price of Natural Gas in Industrial Sector, W. N. Central",dollars per thousand cubic feet
+PATCPUSX,Total Petroleum and Other Liquids Product Supplied,million barrels per day
+PATC_IN,"Liquid Fuels Consumption, India",million barrels per day
+PATC_JA,"Liquid Fuels Consumption, Japan",million barrels per day
+PATC_R02,"Liquid Fuels Consumption, Total Central and South America",million barrels per day
+PAIMPORT,Total Petroleum Net Imports,million barrels per day
+YD87OUS,Real Disposable Personal Income,billion chained 2017 dollars (seasonally-adjusted annual rate)
+ZOMNIUS,Manufacturing Production Index,"Index, 2017=100 (seasonally adjusted)"
+ZWCD_MAC,Cooling Degree Days Middle Atlantic,total degree days
+PAPR_MX,"Crude Oil and Liquid Fuels Supply, Mexico",million barrels per day
+PAPR_MY,"Crude Oil and Liquid Fuels Supply, Malaysia",million barrels per day
+PAPR_NONOPEC,Total non-OPEC Liquids Petroleum Production,million barrels per day
+PAPR_OPEC,Total OPEC Petroleum Supply,million barrels per day
+PAPR_SU,"Crude Oil and Liquid Fuels Supply, Sudan",million barrels per day
+PAPR_TX,"Crude Oil and Liquid Fuels Supply, Turkmenistan",million barrels per day
+QHALLC_ESC,Households E. S. Central,thousands
+ZO325IUS,Basic Chemical Manufacturing Production Index,"Index, 2017=100 (seasonally adjusted)"
+ZO324IUS,Petroleum and Coal Products Production Index,"Index, 2017=100 (seasonally adjusted)"
+T3B_PAPR_R04,"Crude Oil and Liquid Fuels Supply, Total FSU and Eastern Europe",million barrels per day
+CLCOPUS,Industrial Sector Generation from Coal,billion kilowatthours per day
+T3B_PAPR_R02,"Crude Oil and Liquid Fuels Supply, Total Central and South America",million barrels per day
+DFNIPUS,Distillate Fuel Oil Net Imports,million barrels per day
+EE_WNC,Total Non-Farm Employment W. N. Central,millions
+ESTCU_WNC,"Retail Price of Electricity for All Sectors, West North Central",cents per kilowatt hour
+PAGLPUS,Refinery Processing Gain,million barrels per day
+GDPQXUS,Real Gross Domestic Product,billion chained 2017 dollars (seasonally-adjusted annual rate)
+PACOPUS,Industrial Sector Generation from Petroleum (All Types),billion kilowatthours per day
+OWTOPUS,Generation from Other Renewable Sources by All Sectors,billion kilowatthours per day
+PATC_R04,"Liquid Fuels Consumption, Total Eurasia",million barrels per day
+NGCCU_NEC,"Retail Price of Natural Gas in Commercial Sector, New England",dollars per thousand cubic feet
+NGEUDUS,Cost of Natural Gas Delivered to Electric Generating Plants,dollars per million Btu
+NGEXPUS,Natural Gas Total Gross Exports,billion cubic feet per day
+NGICU_ESC,"Retail Price of Natural Gas in Industrial Sector, E. S. Central",dollars per thousand cubic feet
+NGIMPUS_PIPE,Natural Gas Pipeline Gross Imports,billion cubic feet per day
+NGINX_MAC,"Natural Gas Consumption Industrial Sector, Middle Atlantic",billion cubic feet per day
+NGINX_NEC,"Natural Gas Consumption Industrial Sector, New England",billion cubic feet per day
+NGMPPGLF,Natural Gas Marketed Production Federal Gulf of Mexico,billion cubic feet per day
+NGRCU_PAC,"Retail Price of Natural Gas in Residential Sector, Pacific",dollars per thousand cubic feet
+OGTOPUS,Net generation from other fossil gases by all sectors,billion kilowatthours per day
+OHPSPUS,Other HC/Oxygenates Inventory,"million barrels, end-of-period"
+OHRIPUS,Other HC/Oxygenates Adjustment,million barrels per day
+OPCEPUS,Commercial Sector Generation from Other Petroleum,billion kilowatthours per day
+OPCOPUS,Industrial Sector Generation from Other Petroleum,billion kilowatthours per day
+OREPTOT,Electric Power Sector Generation from Other Renewables,billion kilowatthours per day
+ORUTCUS,Refinery Distillation Utilization Factor ,Operating Factor
+OTEPTOT,Electric Power Sector Generation from Other Nonrenewable Fuels,billion kilowatthours per day
+OTTOPUS,Generation from Other Nonrenewable Fuels by All Sectors,billion kilowatthours per day
+PACEPUS,Commercial Sector Generation from Petroleum (All Types),billion kilowatthours per day
+OGEPGEN_FL,"Electric power sector net generation from other fossil gases, Florida (FRCC)",billion kilowatthours
+XXEPGEN_FL,"Electric power sector net generation from other energy sources, Florida (FRCC)",billion kilowatthours
+TOEPGEN_FL,"Electric power sector total net generation from all types of energy sources, Florida (FRCC)",billion kilowatthours
+CLINGEN_US,"Industrial sector net generation from coal, United States",billion kilowatthours
+GEINGEN_US,"Industrial sector net generation from geothermal, United States",billion kilowatthours
+HPINGEN_US,"Industrial sector net generation from pumped storage hydropower, United States",billion kilowatthours
+HVINGEN_US,"Industrial sector net generation from conventional hydropower, United States",billion kilowatthours
+NGINGEN_US,"Industrial sector net generation from natural gas, United States",billion kilowatthours
+NUINGEN_US,"Industrial sector net generation from nuclear, United States",billion kilowatthours
+OBINGEN_US,"Industrial sector net generation from other nonrenewable fuels, United States",billion kilowatthours
+OGINGEN_US,"Industrial sector net generation from other fossil gases, United States",billion kilowatthours
+BMINGEN_US,"Industrial sector net generation from biomass, United States",billion kilowatthours
+PAINGEN_US,"Industrial sector net generation from petroleum, United States",billion kilowatthours
+SOINGEN_US,"Industrial sector net generation from utility-scale solar, United States",billion kilowatthours
+TOINGEN_US,"Total industrial sector net generation by all energy sources, United States",billion kilowatthours
+WNINGEN_US,"Industrial sector net generation from wind, United States",billion kilowatthours
+BMTOGEN_US,"Net generation from biomass, all sectors, United States",billion kilowatthours
+CLTOGEN_US,"Net generation from coal, all sectors, United States",billion kilowatthours
+GETOGEN_US,"Net generation from geothermal, all sectors, United States",billion kilowatthours
+HPTOGEN_US,"Net generation from pumped storage hydropower, all sectors, United States",billion kilowatthours
+HVTOGEN_US,"Net generation from conventional hydropower, all sectors, United States",billion kilowatthours
+RNINGEN_US,"Industrial sector net generation from renewables excluding hydropower, United States",billion kilowatthours
+OBEPGEN_TX,"Electric power sector  net generation from other nonrenewable fuels, Texas (ERCOT)",billion kilowatthours
+OBEPGEN_SW,"Electric power sector  net generation from other nonrenewable fuels, Southwest",billion kilowatthours
+OBEPGEN_SP,"Electric power sector  net generation from other nonrenewable fuels, Central (SPP ISO)",billion kilowatthours
+HVCMGEN_US,"Commercial sector net generation from conventional hydropower, United States",billion kilowatthours
+NGCMGEN_US,"Commercial sector net generation from natural gas, United States",billion kilowatthours
+NUCMGEN_US,"Commercial sector net generation from nuclear, United States",billion kilowatthours
+OBCMGEN_US,"Commercial sector net generation from other nonrenewable fuels, United States",billion kilowatthours
+OGCMGEN_US,"Commercial sector net generation from other fossil gases, United States",billion kilowatthours
+PACMGEN_US,"Commercial sector net generation from petroleum, United States",billion kilowatthours
+RNCMGEN_US,"Commercial sector net generation from renewables excluding hydropower, United States",billion kilowatthours
+SOCMGEN_US,"Commercial sector net generation from utility-scale solar, United States",billion kilowatthours
+TOCMGEN_US,"Total commercial sector net generation by all energy sources, United States",billion kilowatthours
+WNCMGEN_US,"Commercial sector net generation from wind, United States",billion kilowatthours
+OBEPGEN_CA,"Electric power sector  net generation from other nonrenewable fuels, California",billion kilowatthours
+OBEPGEN_FL,"Electric power sector  net generation from other nonrenewable fuels, Florida (FRCC)",billion kilowatthours
+OBEPGEN_HA,"Electric power sector  net generation from other nonrenewable fuels, Hawaii and Alaska",billion kilowatthours
+OBEPGEN_MW,"Electric power sector  net generation from other nonrenewable fuels, Midwest (Midcontinent ISO)",billion kilowatthours
+OBEPGEN_NE,"Electric power sector  net generation from other nonrenewable fuels, New England (ISO-NE)",billion kilowatthours
+OBEPGEN_NW,"Electric power sector  net generation from other nonrenewable fuels, Northwest",billion kilowatthours
+OBEPGEN_NY,"Electric power sector  net generation from other nonrenewable fuels, New York (NYISO)",billion kilowatthours
+OBEPGEN_PJ,"Electric power sector  net generation from other nonrenewable fuels, Mid-Atlantic (PJM)",billion kilowatthours
+OBEPGEN_SE,"Electric power sector  net generation from other nonrenewable fuels, Southeast (SERC)",billion kilowatthours
+NGTOGEN_US,"Net generation from natural gas, all sectors, United States",billion kilowatthours
+NUTOGEN_US,"Net generation from nuclear, all sectors, United States",billion kilowatthours
+OBTOGEN_US,"Net generation from other nonrenewable fuels, all sectors, United States",billion kilowatthours
+OGTOGEN_US,"Net generation from other fossil gases, all sectors, United States",billion kilowatthours
+PAPR_VE,"Crude Oil and Liquid Fuels Supply, Venezuela",million barrels per day
+PASC_OOECD_T3,Other OECD End-of-period Commercial Crude Oil and Other Liquids Inventory,"million barrels, end-of-period"
+WORLD_NC,World non-Crude Oil Liquids Production,million barrels per day
+PAPR_AO,"Crude Oil and Liquid Fuels Supply, Angola",million barrels per day
+COPR_BA,"Crude Oil Production, Bahrain",million barrels per day
+COPR_BX,"Crude Oil Production, Brunei",million barrels per day
+COPR_SU,"Crude Oil Production, Sudan",million barrels per day
+PAPR_BA,"Crude Oil and Liquid Fuels Supply, Bahrain",million barrels per day
+PAPR_BX,"Crude Oil and Liquid Fuels Supply, Brunei",million barrels per day
+COPR_AJ,"Crude Oil Production, Azerbaijan",million barrels per day
+COPR_KZ,"Crude Oil Production, Kazakhstan",million barrels per day
+COPR_MY,"Crude Oil Production, Malaysia",million barrels per day
+COPR_MX,"Crude Oil Production, Mexico",million barrels per day
+COPR_MU,"Crude Oil Production, Oman",million barrels per day
+COPR_RS,"Crude Oil Production, Russia",million barrels per day
+COPR_OD,"Crude Oil Production, South Sudan",million barrels per day
+COPR_OPECPLUS_OPEC,OPEC members subject to OPEC+ agreements,million barrels per day
+COPR_OPECPLUS_OTHER,OPEC+ Other Participants Total,million barrels per day
+PAPR_OPECPLUS_OTHER,OPEC+ liquids from Other OPEC+ participants,million barrels per day
+PAPR_TC,"Crude Oil and Liquid Fuels Supply, United Arab Emirates",million barrels per day
+HPCMGEN_US,"Commercial sector net generation from pumped storage hydropower, United States",billion kilowatthours
+PAPR_SA,"Crude Oil and Liquid Fuels Supply, Saudi Arabia",million barrels per day
+PAPR_OPECPLUS,Total OPEC+ Petroleum Supply,million barrels per day
+PATOGEN_US,"Net generation from petroleum, all sectors, United States",billion kilowatthours
+RNTOGEN_US,"Net generation from renewables excluding hydropower, all sectors, United States",billion kilowatthours
+SOTOGEN_US,"Net generation from utility-scale solar, all sectors, United States",billion kilowatthours
+TOTOGEN_US,"Total net generation by all energy sources, all sectors, United States",billion kilowatthours
+WNTOGEN_US,"Net generation from wind, all sectors, United States",billion kilowatthours
+NGEPSHR_US,Natural gas share of U.S. electricity generation,percentage
+PAPR_EC,"Crude Oil and Liquid Fuels Supply, Ecuador",million barrels per day
+COPR_OPECPLUS,OPEC+ Total,million barrels per day
+PRMBUUS,Mont Belvieu propane spot price,cents per gallon
+COPR_NONOPEC,Non-OPEC Crude Oil Production,million barrels per day
+NONOPEC_NC,Non-OPEC non-Crude Oil Liquids Production,million barrels per day
+PAPR_AG,"Crude Oil and Liquid Fuels Supply, Algeria",million barrels per day
+PAPR_CF,"Crude Oil and Liquid Fuels Supply, Equatorial Guinea",million barrels per day
+PAPR_IR,"Crude Oil and Liquid Fuels Supply, Iran",million barrels per day
+PAPR_IZ,"Crude Oil and Liquid Fuels Supply, Iraq",million barrels per day
+PAPR_KU,"Crude Oil and Liquid Fuels Supply, Kuwait",million barrels per day
+PAPR_LY,"Crude Oil and Liquid Fuels Supply, Libya",million barrels per day
+PAPR_NI,"Crude Oil and Liquid Fuels Supply, Nigeria",million barrels per day
+PAPR_NONOPECPLUS_XUS,Non-OPEC Liquids Petroleum Production from non-OPEC+ excluding the US,million barrels per day
+PAPR_OPECPLUS_OPEC,OPEC+ Liquids Petroleum Production from OPEC Members Subject to OPEC+ Agreements,million barrels per day
+GECMGEN_US,"Commercial sector net generation from geothermal, United States",billion kilowatthours
+CLCMGEN_US,"Commercial sector net generation from coal, United States",billion kilowatthours
+BMCMGEN_US,"Commercial sector net generation from biomass, United States",billion kilowatthours
+WNEPGEN_MW,"Electric power sector net generation from wind, Midwest (Midcontinent ISO)",billion kilowatthours
+SOEPGEN_MW,"Electric power sector net generation from utility-scale solar, Midwest (Midcontinent ISO)",billion kilowatthours
+GEEPGEN_MW,"Electric power sector net generation from geothermal, Midwest (Midcontinent ISO)",billion kilowatthours
+BMEPGEN_MW,"Electric power sector net generation from biomass, Midwest (Midcontinent ISO)",billion kilowatthours
+RTEPGEN_MW,"Electric power sector net generation from renewable energy (all types), Midwest (Midcontinent ISO)",billion kilowatthours
+RNEPGEN_MW,"Electric power sector net generation from renewables excluding hydropower, Midwest (Midcontinent ISO)",billion kilowatthours
+PAEPGEN_MW,"Electric power sector net generation from petroleum, Midwest (Midcontinent ISO)",billion kilowatthours
+OGEPGEN_MW,"Electric power sector net generation from other fossil gases, Midwest (Midcontinent ISO)",billion kilowatthours
+XXEPGEN_MW,"Electric power sector net generation from other energy sources, Midwest (Midcontinent ISO)",billion kilowatthours
+TOEPGEN_MW,"Electric power sector total net generation from all types of energy sources, Midwest (Midcontinent ISO)",billion kilowatthours
+ELLOAD_MW,"Net energy for electricity load, Midwest (Midcontinent ISO)",billion kilowatthours
+NGEPGEN_NE,"Electric power sector net generation from natural gas, New England (ISO-NE)",billion kilowatthours
+CLEPGEN_NE,"Electric power sector net generation from coal, New England (ISO-NE)",billion kilowatthours
+NUEPGEN_NE,"Electric power sector net generation from nuclear, New England (ISO-NE)",billion kilowatthours
+HPEPGEN_NE,"Electric power sector net generation from pumped storage hydropower, New England (ISO-NE)",billion kilowatthours
+HVEPGEN_NE,"Electric power sector net generation from conventional hydropower, New England (ISO-NE)",billion kilowatthours
+WNEPGEN_NE,"Electric power sector net generation from wind, New England (ISO-NE)",billion kilowatthours
+SOEPGEN_NE,"Electric power sector net generation from utility-scale solar, New England (ISO-NE)",billion kilowatthours
+GEEPGEN_NE,"Electric power sector net generation from geothermal, New England (ISO-NE)",billion kilowatthours
+HVEPGEN_MW,"Electric power sector net generation from conventional hydropower, Midwest (Midcontinent ISO)",billion kilowatthours
+SOEPCAPX_US,Electric Power Sector Large-Scale Solar Net Summer Capacity,megawatts
+HPEPGEN_MW,"Electric power sector net generation from pumped storage hydropower, Midwest (Midcontinent ISO)",billion kilowatthours
+CLEPGEN_MW,"Electric power sector net generation from coal, Midwest (Midcontinent ISO)",billion kilowatthours
+ELLOAD_FL,"Net energy for electricity load, Florida (FRCC)",billion kilowatthours
+NGEPGEN_HA,"Electric power sector net generation from natural gas, Hawaii and Alaska",billion kilowatthours
+PAPR_OD,"Crude Oil and Liquid Fuels Supply, South Sudan",million barrels per day
+CLEPGEN_HA,"Electric power sector net generation from coal, Hawaii and Alaska",billion kilowatthours
+NUEPGEN_HA,"Electric power sector net generation from nuclear, Hawaii and Alaska",billion kilowatthours
+HPEPGEN_HA,"Electric power sector net generation from pumped storage hydropower, Hawaii and Alaska",billion kilowatthours
+HVEPGEN_HA,"Electric power sector net generation from conventional hydropower, Hawaii and Alaska",billion kilowatthours
+WNEPGEN_HA,"Electric power sector net generation from wind, Hawaii and Alaska",billion kilowatthours
+SOEPGEN_HA,"Electric power sector net generation from utility-scale solar, Hawaii and Alaska",billion kilowatthours
+GEEPGEN_HA,"Electric power sector net generation from geothermal, Hawaii and Alaska",billion kilowatthours
+BMEPGEN_HA,"Electric power sector net generation from biomass, Hawaii and Alaska",billion kilowatthours
+RTEPGEN_HA,"Electric power sector net generation from renewable energy (all types), Hawaii and Alaska",billion kilowatthours
+RNEPGEN_HA,"Electric power sector net generation from renewables excluding hydropower, Hawaii and Alaska",billion kilowatthours
+PAEPGEN_HA,"Electric power sector net generation from petroleum, Hawaii and Alaska",billion kilowatthours
+OGEPGEN_HA,"Electric power sector net generation from other fossil gases, Hawaii and Alaska",billion kilowatthours
+XXEPGEN_HA,"Electric power sector net generation from other energy sources, Hawaii and Alaska",billion kilowatthours
+TOEPGEN_HA,"Electric power sector total net generation from all types of energy sources, Hawaii and Alaska",billion kilowatthours
+ELLOAD_HA,"Net energy for electricity load, Hawaii and Alaska",billion kilowatthours
+NGEPGEN_MW,"Electric power sector net generation from natural gas, Midwest (Midcontinent ISO)",billion kilowatthours
+NUEPGEN_MW,"Electric power sector net generation from nuclear, Midwest (Midcontinent ISO)",billion kilowatthours
+MGRARP3,"Gasoline Regular Grade Retail Price Incl Taxes, PADD 3 (Gulf Coast)",cents per gallon
+PAPR_UK,"Crude Oil and Liquid Fuels Supply, United Kingdom",million barrels per day
+ELEXPUS,Gross Exports of Electricity from the United States,billion kilowatthours per day
+ELLOAD_NW,"Net energy for electricity load, Northwest",billion kilowatthours
+NGEPGEN_NY,"Electric power sector net generation from natural gas, New York (NYISO)",billion kilowatthours
+CLEPGEN_NY,"Electric power sector net generation from coal, New York (NYISO)",billion kilowatthours
+NUEPGEN_NY,"Electric power sector net generation from nuclear, New York (NYISO)",billion kilowatthours
+HPEPGEN_NY,"Electric power sector net generation from pumped storage hydropower, New York (NYISO)",billion kilowatthours
+HVEPGEN_NY,"Electric power sector net generation from conventional hydropower, New York (NYISO)",billion kilowatthours
+WNEPGEN_NY,"Electric power sector net generation from wind, New York (NYISO)",billion kilowatthours
+SOEPGEN_NY,"Electric power sector net generation from utility-scale solar, New York (NYISO)",billion kilowatthours
+GEEPGEN_NY,"Electric power sector net generation from geothermal, New York (NYISO)",billion kilowatthours
+BMEPGEN_NY,"Electric power sector net generation from biomass, New York (NYISO)",billion kilowatthours
+PAEPCNS_PJ,"Electric power sector  consumption of petroleum, Mid-Atlantic (PJM)",thousand barrels
+PAEPCNS_SE,"Electric power sector  consumption of petroleum, Southeast (SERC)",thousand barrels
+PAEPCNS_SP,"Electric power sector  consumption of petroleum, Central (SPP ISO)",thousand barrels
+PAEPCNS_SW,"Electric power sector  consumption of petroleum, Southwest",thousand barrels
+PAEPCNS_TX,"Electric power sector  consumption of petroleum, Texas (ERCOT)",thousand barrels
+PAEPCNS_US,"Electric power sector  consumption of petroleum, United States",thousand barrels
+CLINCNS_US,"Industrial sector consumption of coal, United States",thousand short tons
+NGINCNS_US,"Industrial sector consumption of natural gas, United States",billion cubic feet
+PAINCNS_US,"Industrial sector consumption of petroleum, United States",thousand barrels
+TOEPGEN_NW,"Electric power sector total net generation from all types of energy sources, Northwest",billion kilowatthours
+ELIMPUS,Gross Imports of Electricity into the United States,billion kilowatthours per day
+XXEPGEN_NW,"Electric power sector net generation from other energy sources, Northwest",billion kilowatthours
+PAEPGEN_NW,"Electric power sector net generation from petroleum, Northwest",billion kilowatthours
+BMEPGEN_NE,"Electric power sector net generation from biomass, New England (ISO-NE)",billion kilowatthours
+RTEPGEN_NE,"Electric power sector net generation from renewable energy (all types), New England (ISO-NE)",billion kilowatthours
+RNEPGEN_NE,"Electric power sector net generation from renewables excluding hydropower, New England (ISO-NE)",billion kilowatthours
+PAEPGEN_NE,"Electric power sector net generation from petroleum, New England (ISO-NE)",billion kilowatthours
+OGEPGEN_NE,"Electric power sector net generation from other fossil gases, New England (ISO-NE)",billion kilowatthours
+XXEPGEN_NE,"Electric power sector net generation from other energy sources, New England (ISO-NE)",billion kilowatthours
+TOEPGEN_NE,"Electric power sector total net generation from all types of energy sources, New England (ISO-NE)",billion kilowatthours
+ELLOAD_NE,"Net energy for electricity load, New England (ISO-NE)",billion kilowatthours
+NGEPGEN_NW,"Electric power sector net generation from natural gas, Northwest",billion kilowatthours
+CLEPGEN_NW,"Electric power sector net generation from coal, Northwest",billion kilowatthours
+NUEPGEN_NW,"Electric power sector net generation from nuclear, Northwest",billion kilowatthours
+HPEPGEN_NW,"Electric power sector net generation from pumped storage hydropower, Northwest",billion kilowatthours
+HVEPGEN_NW,"Electric power sector net generation from conventional hydropower, Northwest",billion kilowatthours
+WNEPGEN_NW,"Electric power sector net generation from wind, Northwest",billion kilowatthours
+SOEPGEN_NW,"Electric power sector net generation from utility-scale solar, Northwest",billion kilowatthours
+GEEPGEN_NW,"Electric power sector net generation from geothermal, Northwest",billion kilowatthours
+BMEPGEN_NW,"Electric power sector net generation from biomass, Northwest",billion kilowatthours
+RTEPGEN_NW,"Electric power sector net generation from renewable energy (all types), Northwest",billion kilowatthours
+RNEPGEN_NW,"Electric power sector net generation from renewables excluding hydropower, Northwest",billion kilowatthours
+OGEPGEN_NW,"Electric power sector net generation from other fossil gases, Northwest",billion kilowatthours
+COPR_NONOPECPLUS_XUS,Non-OPEC+ exluding United States Crude Oil Production,million barrels per day
+MGEIAUS,Gasoline All Grades Retail Price Including Taxes U.S. Average,cents per gallon
+LGNIPUS,Liquefied Petroleum Gas Net Imports,million barrels per day
+TDLOTWH,Total Transmission and Distribution Losses in United States,billion kilowatthours
+ELDUTWH,Total Direct Use of Electricity in United States,billion kilowatthours
+ELCOTWH,Total Consumption of Electricity in United States,billion kilowatthours
+ELWHU_TX,"Wholesale Electricity Price, ERCOT (Texas) ISO North hub",dollars per megawatthour
+ELWHU_CA,"Wholesale Electricity Price, CAISO (California ISO) SP15 zone",dollars per megawatthour
+ELWHU_NE,"Wholesale Electricity Price, ISO-NE (New England ISO) Internal hub",dollars per megawatthour
+ELWHU_NY,"Wholesale Electricity Price, NYISO (New York ISO) Hudson Valley zone",dollars per megawatthour
+ELWHU_PJ,"Wholesale Electricity Price, PJM RTO Western hub",dollars per megawatthour
+ELSUTWH,Total Supply of Electricity in United States,billion kilowatthours
+ELWHU_MW,"Wholesale Electricity Price, MISO (Midcontinent ISO) Illinois hub",dollars per megawatthour
+ELWHU_FL,"Wholesale Electricity Price, Florida index, Florida Reliability (FRCC) hub",dollars per megawatthour
+ELWHU_NW,"Wholesale Electricity Price, Northwest index, Mid-Columbia hub",dollars per megawatthour
+ELWHU_SW,"Wholesale Electricity Price, Southwest index, Palo Verde hub",dollars per megawatthour
+EXCCPUS,"Retail Sales of Electricity in Commercial Sector, U.S. Total",billion kilowatthours per day
+PAPR_FSU,Eurasia Petroleum Production,million barrels per day
+NGPSUPP,Total Natural Gas Supply,billion cubic feet per day
+PAPR_WORLD,Total World Petroleum Production,million barrels per day
+ESCMU_US,"Retail Price of Electricity in Commercial Sector, U.S. Average",cents per kilowatthour
+ELWHU_SE,"Wholesale Electricity Price, Southeast index, Southeast Reliability (SERC) Into Southern hub",dollars per megawatthour
+ELNITWH,Net International Imports of Electricity into United States,billion kilowatthours
+CHEOTWH,"Total Net Generation of Electricity from Large-Scale Power Plants, Commercial and Industrial Sectors, United States",billion kilowatthours
+EPEOTWH,"Total Net Generation of Electricity from Large-Scale Power Plants, Electric Power Sector, United States",billion kilowatthours
+SOTCBUS,Consumption of Solar Energy by All Sectors,Quadrillion Btu
+EXRCPUS,"Retail Sales of Electricity in Residential Sector, U.S. Total",billion kilowatthours per day
+TETCFUEL,U.S. Total Energy Consumption,Quadrillion Btu
+WWCHCGW_US,U.S. commercial and industrial sectors wood biomass net summer generating capacity,gigawatts
+SODRG_US,"U.S. small-scale photovoltaic solar net summer capacity, residendential sector",gigawatts
+SODCG_US,"U.S. small-scale photovoltaic solar net summer capacity, commercial sector",gigawatts
+SODIG_US,"U.S. small-scale photovoltaic solar net summer capacity, industrial sector",gigawatts
+SODTG_US,"U.S. small-scale photovoltaic solar net summer capacity, all sectors total",gigawatts
+PADI_AJ,"Unplanned liquid fuel production disruptions, Azerbaijan",million barrels per day
+COPC_OPEC_ROT,OPEC Other Crude Oil Production Capacity,million barrels per day
+COPS_OPEC_ROT,OPEC Other Spare Crude Oil Production Capacity,million barrels per day
+PADI_NORTHSEA,"Unplanned liquid fuel production disruptions, North Sea",million barrels per day
+PADI_RS,"Unplanned liquid fuel production disruptions, Russia",million barrels per day
+PADI_VE,"Unplanned liquid fuel production disruptions, Venezuela",million barrels per day
+ELTCP_HAK,"Total Retail Sales of Electricity in All Sectors, Alaska and Hawaii",billion kilowatthours
+ELTCP_PAC,"Total Retail Sales of Electricity in All Sectors, Pacific Contiguous",billion kilowatthours
+ELTCP_SAC,"Total Retail Sales of Electricity in All Sectors, South Atlantic",billion kilowatthours
+ELTCP_US,"Total Retail Sales of Electricity in All Sectors, U.S. Total",billion kilowatthours
+TSEOTWH,"Total Net Generation of Electricity from Large-Scale Power Plants, All Sectors, United States",billion kilowatthours
+OBNIPUS,Other Biofuels Net Imports,million barrels per day
+OBPRPUS,Other Biofuels Production,million barrels per day
+OBPSPUS,Other Biofuels Inventory,million barrels
+OBTCPUS,Other Biofuels Consumption,million barrels per day
+EXRCH_WSC,"Average Residential Electricity Usage Per Customer, West South Central",kilowatthours
+EXRCH_MTN,"Average Residential Electricity Usage Per Customer, Mountain",kilowatthours
+EXRCH_PAC,"Average Residential Electricity Usage Per Customer, Pacific Contiguous",kilowatthours
+EXRCH_HAK,"Average Residential Electricity Usage Per Customer, Hawaii and Alaska",kilowatthours
+ELCUS_US,"Number of Residential Customers, United States",thousand customers
+ELCUS_NEC,"Number of Residential Customers, New England",thousand customers
+ELCUS_MAC,"Number of Residential Customers, Middle Atlantic",thousand customers
+ELCUS_ENC,"Number of Residential Customers, East North Central",thousand customers
+ELCUS_WNC,"Number of Residential Customers, West North Central",thousand customers
+ELCUS_SAC,"Number of Residential Customers, South Atlantic",thousand customers
+ELCUS_ESC,"Number of Residential Customers, East South Central",thousand customers
+ELCUS_WSC,"Number of Residential Customers, West South Central",thousand customers
+ELCUS_MTN,"Number of Residential Customers, Mountain",thousand customers
+ELCUS_PAC,"Number of Residential Customers, Pacific Contiguous",thousand customers
+ELCUS_HAK,"Number of Residential Customers, Hawaii and Alaska",thousand customers
+EOPSPUS,Fuel Ethanol Inventory,"million barrels, end-of-period"
+PARNPUS,Renewables and Oxygenate Production,million barrels per day
+QSIC_CL,Coal-weighted Industrial Production Index,"Index, 2017=100"
+QSIC_DF,Distillate-weighted Industrial Production Index,"Index, 2017=100"
+EXRCH_ESC,"Average Residential Electricity Usage Per Customer, East South Central",kilowatthours
+SORCBUS,Residential Sector Consumption of Solar Energy,Quadrillion Btu
+EXRCH_SAC,"Average Residential Electricity Usage Per Customer, South Atlantic",kilowatthours
+EXRCH_ENC,"Average Residential Electricity Usage Per Customer, East North Central",kilowatthours
+RDPRPUS,Renewable Diesel Production,million barrels per day
+RDPSPUS,Renewable Diesel Inventory,million barrels
+RDTCPUS,Renewable Diesel Consumption,million barrels per day
+OHTCPUS,Other HC/Oxygenates Consumption,million barrels per day
+RNPRPUS,Renewable Fuels Except Fuel Ethanol Production,million barrels per day
+EOACBUS,Transportation Sector Consumption of Energy from Ethanol,Quadrillion Btu
+REACBUS,Transportation Sector Total Consumption of Renewable Energy,Quadrillion Btu
+WWEPCAP_US,Electric Power Sector Wood Biomass Net Summer Capacity,megawatts
+GEEPCAP_US,Electric Power Sector Geothermal Net Summer Capacity,megawatts
+BREPUUS,Brent crude oil spot price,dollars per barrel
+CONSRUS,Real Personal Consumption Expenditures,billion chained 2017 dollars (seasonally-adjusted annual rate)
+XRUNR,Civilian Unemployment Rate,Percent
+HSTCXUS,Housing Starts,millions (seasonally-adjusted annual rate)
+WNEPCAPX_US,Electric Power Sector Wind Net Summer Capacity,megawatts
+WNTCBUS,Consumption of Wind Energy by All Sectors,Quadrillion Btu
+WNECBUS,Electric Power Sector Consumption of Wind Energy,Quadrillion Btu
+EXRCH_NEC,"Average Residential Electricity Usage Per Customer, New England",kilowatthours
+EXRCH_US,"Average Residential Electricity Usage Per Customer, United States",kilowatthours
+EXRCH_MAC,"Average Residential Electricity Usage Per Customer, Middle Atlantic",kilowatthours
+EXRCH_WNC,"Average Residential Electricity Usage Per Customer, West North Central",kilowatthours
+QSIC_EL,Electricity-weighted Industrial Production Index,"Index, 2017=100"
+PATC_UST,"Liquid Fuels Consumption, U.S. Territories",million barrels per day
+REECBUS,Electric Power Sector Total Consumption of Renewable Energy,Quadrillion Btu
+DSRTUUS_RP_$,"Diesel Fuel Retail Real Prrice Incl Taxes, U.S. Average",real dollars per gallon
+RACPUUS_$,Refiner Average Crude Oil Acquisition Cost,dollars per gallon
+CLPS_TOT,Coal Total Inventories,"million short tons, end-of-period"
+RNTOPUS,Generation from Renewables (excluding Hydro) by All Sectors,billion kilowatthours per day
+ZWHDPUS_PCT,Heating Degree Days U.S. Average ,Percent change from prior year
+COPC_OPEC_R05,OPEC Middle East Crude Oil Production Capacity,million barrels per day
+COPS_OPEC_R05,OPEC Middle East Surplus Crude Oil Production Capacity,million barrels per day
+PATC_OTHER_OECD,"Liquid Fuels Consumption, Other OECD",million barrels per day
+MGRARUS_RP_$,"Gasoline Regular Grade Retail Real Price Incl Taxes, U.S. Average,",real dollars per gallon
+OWCCBUS,Commercial Sector Consumption of Non-wood Waste Biomass Energy,Quadrillion Btu
+COSX_DRAW,Crude Oil Net Commercial Inventory Withdrawals,million barrels per day
+EXICPUS,"Retail Sales of Electricity in Industrial Sector, U.S. Total",billion kilowatthours per day
+GDPDIUS_PCT,GDP Implicit Price Deflator,Percent change from prior year
+PATC_OECD_EUROPE,"Liquid Fuels Consumption, Europe OECD",million barrels per day
+ZOMNIUS_PCT,Manufacturing Production Index,Percent change from prior year
+GERCBUS,Residential Sector Consumption of Geothermal Energy,Quadrillion Btu
+WWRCBUS,Residential Sector Consumption of Wood and Wood Waste Biomass Energy,Quadrillion Btu
+ESCMUUS,"Retail Price of Electricity in Commercial Sector, U.S. Average",cents per kilowatthour
+EOTCBUS,Consumption of Energy from Ethanol by All Sectors,Quadrillion Btu
+MGRARUS_$,"Gasoline retail price incl taxes, U.S. average",dollars per gallon
+D2RCAUS_$,"Heating oil retail price incl taxes, U.S. average",dollars per gallon
+DSRTUUS_$,"Diesel fuel retail price incl taxes, U.S. average",dollars per gallon
+ESRCUUS_RP,"Real Retail Price of Electricity in Residential Sector, U.S. Average",cents per kilowatthour
+NGRCUUS_RP,"Real Natural Gas Price Residential Sector, U.S. Average",dollars per thousand cubic feet
+EOTCSHR,Ethanol Share of Finished Gasoline Consumption,fraction
+D2RCAUS_RP_$,"Heating Oil Retail Price Incl Taxes, U.S. Average",real dollars per gallon
+CLOTCON_TON,Coal Consumed in non-Power Sectors,million short tons
+ZWCDPUS_PCT,Cooling Degree Days U.S. Average,Percent change from prior year
+EMCMPUS_PCT,Commercial Employment,percent change from prior year
+QHALLC_US_PCT,U.S. Households,percent change from prior year
+RGDPQ_NONOECD,Non-OECD Real Gross Domestic Product,"Index, 2015 Q1 = 100"
+RGDPQ_NONOECD_PCT,"Non-OECD Real Gross Domestic Product, Percent Change From Prior Year",Percent
+RGDPQ_OECD,OECD Real Gross Domestic Product,"Index, 2015 Q1 = 100"
+RGDPQ_OECD_PCT,"OECD Real Gross Domestic Product, Percent Change From Prior Year",Percent
+EXACP_US,"Retail Sales of Electricity in Transportation Sector, U.S. Total",million kilowatthours per day
+EXCCP_US,"Retail Sales of Electricity in Commercial Sector, U.S. Total",million kilowatthours per day
+EXICP_US,"Retail Sales of Electricity in Industrial Sector, U.S. Total",million kilowatthours per day
+EXRCP_US,"Retail Sales of Electricity in Residential Sector, U.S. Total",million kilowatthours per day
+EXTCP_US,"Retail Sales of Electricity in All Sectors, U.S. Total",million kilowatthours per day
+FOREX_WORLD,"Nominal U.S. Dollar Index, 2015 Q1=100 (annual and quarterly data only)","Index, 2015 Q1 = 100"
+FOREX_WORLD_PCT,"Nominal U.S. Dollar Exchange Rate, Percent Change From Prior Year",Percent
+ESRCUUS,"Retail price of electricity in residential sector, U.S. average",cents per kilowatthour
+PAPR_OECD,OECD Petroleum Production,million barrels per day
+COSQ_DRAW,Crude Oil Net SPR Withdrawals,million barrels per day
+PAPR_ID,"Crude Oil and Liquid Fuels Supply, Indonesia",million barrels per day
+RETCBUS,Total Consumption of Renewable Energy by All Sectors,Quadrillion Btu
+ESICU_US,"Retail Price of Electricity in Industrial Sector, U.S. Average",cents per kilowatthour
+EOPRBUS,Ethanol Energy Supply,Quadrillion Btu
+PAPR_OTHEROECD,Other OECD Petroleum Production,million barrels per day
+BDTCBUS,Consumption of Energy from Biomass-based Diesel by All Sectors,Quadrillion Btu
+PAFPPUS,Petroleum Products Adjustment,million barrels per day
+YD87OUS_PCT,Real Disposable Personal Income,Percent change from prior year
+PATC_NONOECD_EUROPE,"Liquid Fuels Consumption, Europe non-OECD",million barrels per day
+RECCBUS,Commercial Sector Total Consumption of Renewable Energy,Quadrillion Btu
+PASC_US,U.S. End-of-period Commercial Crude Oil and Other Liquids Inventory,million barrels
+HVTCBUS,Consumption of Conventional Hydroelectric Power Energy by All Sectors,Quadrillion Btu
+WWTCBUS,Consumption of Wood and Wood Waste Biomass Energy by All Sectors,Quadrillion Btu
+HVECBUS,Electric Power Sector Consumption of Conventional Hydroelectric Energy,Quadrillion Btu
+EXACPUS,"Retail Sales of Electricity in Transportation Sector, U.S. Total",billion kilowatthours per day
+PANIPUS,Petroleum Product Net Imports,million barrels per day
+HVICBUS,Industrial Sector Consumption of Conventional Hydroelectric Energy,Quadrillion Btu
+OWICBUS,Industrial Sector Consumption of Non-wood Waste Biomass Energy,Quadrillion Btu
+ESICUUS,"Retail Price of Electricity in Industrial Sector, U.S. Average",cents per kilowatthour
+NGSUPP,Total Natural Gas Primary Supply,billion cubic feet per day
+NGINX_US,U.S. Natural Gas Industrial Consumption,billion cubic feet per day
+GEICBUS,Industrial Sector Consumption of Geothermal Energy,Quadrillion Btu
+PATC_OTHER_NONOECD,"Liquid Fuels Consumption, Other non-OECD",million barrels per day
+PAPR_OTHER_NONOECD,Other Non-OECD Petroleum Production,million barrels per day
+EXTCPUS,"Retail Sales of Electricity in All Sectors, U.S. Total",billion kilowatthours per day
+GEECBUS,Electric Power Sector Consumption of Geothermal Energy,Quadrillion Btu
+NLPRPUS,Natural Gas Processing Plant Total Liquids Production,million barrels per day
+SOECBUS,Electric Power Sector Consumption of Solar Energy,Quadrillion Btu
+WWEPCONB,Electric Power Sector Consumption of Wood and Wood Waste Biomass Energy,Quadrillion Btu
+GDPQXUS_PCT,Real Gross Domestic Product,Percent change from prior year
+REICBUS,Industrial Sector Total Consumption of Renewable Energy,Quadrillion Btu
+GECCBUS,Commercial Sector Consumption of Geothermal Energy,Quadrillion Btu
+PATC_FSU,"Liquid Fuels Consumption, non-OECD Eurasia",million barrels per day
+WWCCBUS,Commercial Sector Consumption of Wood and Wood Waste Biomass Energy,Quadrillion Btu
+PATC_OTHER_ASIA,"Liquid Fuels Consumption, Other Asia",million barrels per day
+RERCBUS,Residential Sector Total Consumption of Renewable Energy,Quadrillion Btu
+OWTCBUS,Consumption of Non-wood Waste Biomass Energy by All Sectors,Quadrillion Btu
+OWEPCONB,Electric Power Sector Consumption of Non-wood Waste Biomass Energy,Quadrillion Btu
+HVCCBUS,Commercial Sector Consumption of Conventional Hydroelectric Energy,Quadrillion Btu
+PROD_DRAW,Petroleum Product Net Inventory Withdrawals,million barrels per day
+PASUPPLY,Total Petroleum Product Supply,million barrels per day
+GETCBUS,Consumption of Geothermal Energy by All Sectors,Quadrillion Btu
+OHPRPUS,Other HC/Oxygenates Production,million barrels per day
+WWICBUS,Industrial Sector Consumption of Wood and Wood Waste Biomass Energy,Quadrillion Btu
+QSIC_NG,Natural Gas-weighted Industrial Production Index,"Index, 2017=100"
+ZO321IUS,Wood Products Production Index,"Index, 2017=100 (seasonally adjusted)"
+ZO326IUS,Plastics and Rubber Products Production Index,"Index, 2017=100 (seasonally adjusted)"
+DFEPDEL,Distillate Fuel Oil Delivers to Power Sector,million barrels per day
+ZO311IUS,Food and Kindred Products Production Index,"Index, 2017=100 (seasonally adjusted)"
+ZWHDPUS,Heating Degree Days U.S. Average ,total degree days
+ZWHD_PAC,Heating Degree Days Pacific,total degree days
+ZO322IUS,Paper and Allied Products Production Index,"Index, 2017=100 (seasonally adjusted)"
+BALIT,Natural Gas Balancing Item (Consumption - Supply),billion cubic feet per day
+BDTCPUS,Biodiesel Consumption,million barrels per day
+CGSP_PAC,Real Gross State Product Pacific,billion chained 2017 dollars (seasonally-adjusted annual rate)
+ZWCD_SAC,Cooling Degree Days South Atlantic,total degree days
+CLAJPUS_TON,Coal Supply-Demand Discrepancy,million short tons
+CLHCPUS_TON,Residential and Commercial Coal Consumption,million short tons
+CLKCPUS_TON,Coke Plants Coal Consumption,million short tons
+CLNSPUS_TON,Total Primary Coal Supply,million short tons
+CLPRPIR_TON,Coal Production Interior Region,million short tons
+CLPRPUS_TON,Coal Production Total U.S.,million short tons
+CLSOPUS,Coal Secondary Inventories Retail and General Industry,"million short tons, end-of-period"
+CLZCPUS_TON,Retail and Other Industry Coal Consumption,million short tons
+COPR_VE,"Crude Oil Production, Venezuela",million barrels per day
+CLEPTOT,Electric Power Sector Generation from Coal,billion kilowatthours per day
+ZWCD_ENC,Cooling Degree Days E. N. Central,total degree days
+UOTCPUS,Unfinished Oils Product Supplied,million barrels per day
+UOPSPUS,Unfinished Oils Inventory,"million barrels, end-of-period"
+CLCHCGW_US,U.S. commercial and industrial sectors coal net summer generating capacity,gigawatts
+HVCHCGW_US,U.S. commercial and industrial sectors conventional hydropower net summer generating capacity,gigawatts
+NGCHCGW_US,U.S. commercial and industrial sectors natural gas net summer generating capacity,gigawatts
+OGCHCGW_US,U.S. commercial and industrial sectors other fossil gases net summer generating capacity,gigawatts
+OTCHCGW_US,U.S. commercial and industrial sectors other non-renewable sources net summer generating capacity,gigawatts
+OWCHCGW_US,U.S. commercial and industrial sectors waste biomass net summer generating capacity,gigawatts
+PACHCGW_US,U.S. commercial and industrial sectors petroleum net summer generating capacity,gigawatts
+SOCHCGW_US,U.S. commercial and industrial sectors solar net summer generating capacity,gigawatts
+WNCHCGW_US,U.S. commercial and industrial sectors wind net summer generating capacity,gigawatts
+PRPSPUS,Propane/Propylene Oil U.S. Total Inventory,"million barrels, end-of-period"
+PSNIPUS,Other Oils Net Imports,million barrels per day
+PSPSPUS,Other Oils Inventory,"million barrels, end-of-period"
+PSTCPUS,Other Oils Product Supplied,million barrels per day
+RACPUUS,Refiner Average Crude Oil Acquisition Cost,dollars per barrel
+RFEPTOT,Electric Power Sector Generation from Residual Fuel Oil,billion kilowatthours per day
+RFNIPUS,Residual Fuel Oil Net Imports,million barrels per day
+RFPS_EP,"Residual Fuel Oil Stocks, Electric Power Sector","million barrels, end-of-period"
+RFROPUS,Residual Fuel Refinery Output,million barrels per day
+TSEOPUS,Total Generation by All Sectors,billion kilowatthours per day
+COPS_LY,Libya Spare Crude Oil Production Capacity,million barrels per day
+COPS_TC,United Arab Emirates Spare Crude Oil Production Capacity,million barrels per day
+CORIPUS,Crude OIl Refinery Input,million barrels per day
+CYRPIC_MAC,Real Personal Income Middle Atlantic,billion chained 2017 dollars (seasonally-adjusted annual rate)
+EXCCP_WNC,"Retail Sales of Electricity in Commercial Sector, West North Central",million kilowatthours per day
+EXCCP_WSC,"Retail Sales of Electricity in Commercial Sector, West South Central",million kilowatthours per day
+EXICP_PAC,"Retail Sales of Electricity in Industrial Sector, Pacific Contiguous",million kilowatthours per day
+EXRCP_HAK,"Retail Sales of Electricity in Residential Sector, Alaska and Hawaii",million kilowatthours per day
+EXRCP_PAC,"Retail Sales of Electricity in Residential Sector, Pacific Contiguous",million kilowatthours per day
+EXRCP_SAC,"Retail Sales of Electricity in Residential Sector, South Atlantic",million kilowatthours per day
+EXTCP_HAK,"Retail Sales of Electricity in All Sectors, Alaska and Hawaii",million kilowatthours per day
+EXTCP_NEC,"Retail Sales of Electricity in All Sectors, New England",million kilowatthours per day
+GDPDIUS,GDP Implicit Price Deflator,"Index, 2017 = 100"
+GEEPTOT,Electric Power Sector Generation from Geothermal,billion kilowatthours per day
+HVEPTOT,Electric Power Sector Generation from Conventional Hydroelectric,billion kilowatthours per day
+IPMFG_ENC,"Industrial Output, Manufacturing, E. N. Central","Index, 2017=100"
+IPMFG_ESC,"Industrial Output, Manufacturing, E. S. Central","Index, 2017=100"
+IPMFG_MTN,"Industrial Output, Manufacturing, Mountain","Index, 2017=100"
+IPMFG_SAC,"Industrial Output, Manufacturing, S. Atlantic","Index, 2017=100"
+IPMFG_WSC,"Industrial Output, Manufacturing, W. S. Central","Index, 2017=100"
+JFNIPUS,Jet Fuel Net Imports,million barrels per day
+JKTCUUS,Jet Fuel Refiner Price to End Users,cents per gallon
+KRDRXUS,Business Inventory Change,billion chained 2017 dollars (seasonally-adjusted annual rate)
+EXCCP_HAK,"Retail Sales of Electricity in Commercial Sector, Alaska and Hawaii",million kilowatthours per day
+WWEPCGW_US,U.S. electric power sector wood biomass net summer generating capacity,gigawatts
+EXCCP_ESC,"Retail Sales of Electricity in Commercial Sector, East South Central",million kilowatthours per day
+ESTCU_MAC,"Retail Price of Electricity for All Sectors, Middle Atlantic",cents per kilowatt hour
+CYRPIC_PAC,Real Personal Income Pacific,billion chained 2017 dollars (seasonally-adjusted annual rate)
+CYRPIC_WNC,Real Personal Income W. N. Central,billion chained 2017 dollars (seasonally-adjusted annual rate)
+D2RCAUS,"Heating Oil Retail Price Including Taxes, U.S. Average",cents per gallon
+D2WHUUS,Heating Oil Refiner Wholesale Price,cents per gallon
+DFPSPP1,Distillate Fuel Oil PADD 1 (East Coast) Inventory,"million barrels, end-of-period"
+DFPSPP3,Distillate Fuel Oil PADD 3 (Gulf Coast) Inventory,"million barrels, end-of-period"
+DFPSPP5,Distillate Fuel Oil PADD 5 (West Coast) Inventory,"million barrels, end-of-period"
+DFTCPUS,Distillate Fuel Oil Product Supplied,million barrels per day
+DKEPTOT,Electric Power Sector Generation from Distillate Fuel Oil,billion kilowatthours per day
+EE_MTN,Total Non-Farm Employment Mountain,millions
+EMCMPUS,Commercial Employment,millions
+ESCMU_ENC,"Retail Price of Electricity in Commercial Sector, East North Central",cents per kilowatt hour
+ESCMU_MAC,"Retail Price of Electricity in Commercial Sector, Middle Atlantic",cents per kilowatt hour
+ESCMU_WNC,"Retail Price of Electricity in Commercial Sector, West North Central",cents per kilowatt hour
+ESICU_MAC,"Retail Price of Electricity in Industrial Sector, Middle Atlantic",cents per kilowatt hour
+ESICU_PAC,"Retail Price of Electricity in Industrial Sector, Pacific Contiguous",cents per kilowatt hour
+ESICU_WSC,"Retail Price of Electricity in Industrial Sector, West South Central",cents per kilowatt hour
+ESRCU_PAC,"Retail Price of Electricity in Residential Sector, Pacific Contiguous",cents per kilowatt hour
+ESTCU_ENC,"Retail Price of Electricity for All Sectors, East North Central",cents per kilowatt hour
+ESTCU_NEC,"Retail Price of Electricity for All Sectors, New England",cents per kilowatt hour
+WNEPCGW_US,U.S. electric power sector wind net summer generating capacity,gigawatts
+STEPCGW_US,U.S. electric power sector solar thermal net summer generating capacity,gigawatts
+SPEPCGWX_US,U.S. electric power sector solar photovoltaic net summer generating capacity,gigawatts
+ZWCD_WSC_10YR,"Cooling Degree Days W. S. Central, Prior 10-Year Average",total degree days
+ZWHD_ENC_10YR,"Heating Degree Days E. N. Central, Prior 10-Year Average",total degree days
+ZWHD_ESC_10YR,"Heating Degree Days E. S. Central, Prior 10-Year Average",total degree days
+ZWHD_MAC_10YR,"Heating Degree Days Middle Atlantic, Prior 10-Year Average",total degree days
+ZWHD_MTN_10YR,"Heating Degree Days Mountain, Prior 10-Year Average",total degree days
+ZWHD_NEC_10YR,"Heating Degree Days New England, Prior 10-Year Average",total degree days
+ZWHD_PAC_10YR,"Heating Degree Days Pacific, Prior 10-Year Average",total degree days
+ZWHD_US_10YR,"Heating Degree Days U.S. Average , Prior 10-Year Average",total degree days
+ZWHD_SAC_10YR,"Heating Degree Days South Atlantic, Prior 10-Year Average",total degree days
+ZWHD_WNC_10YR,"Heating Degree Days W. N. Central, Prior 10-Year Average",total degree days
+ZWHD_WSC_10YR,"Heating Degree Days W. S. Central, Prior 10-Year Average",total degree days
+TETC_EXP_SHR,Total U.S. Real Energy Expenditures as a Share of U.S. Real GDP,fraction
+GOVXRUS,Real U.S. Government Expenditures,billion chained 2017 dollars (seasonally-adjusted annual rate)
+TREXRUS,Real Exports of Goods and Services,billion chained 2017 dollars (seasonally-adjusted annual rate)
+TRIMRUS,Real Imports of Goods and Services,billion chained 2017 dollars (seasonally-adjusted annual rate)
+ETFPPUS,Ethane Production at Natural Gas Processing Plants,million barrels per day
+ETNIPUS,Ethane Net Imports,million barrels per day
+ETPSPUS,Ethane/Ethylene U.S. Inventory,"million barrels, end-of-period"
+ETROPUS,Ethane/Ethylene Refinery and Blender Net Production,million barrels per day
+ZWCD_WNC_10YR,"Cooling Degree Days W. N. Central, Prior 10-Year Average",total degree days
+PRFPPUS,Propane Production at Natural Gas Processing Plants,million barrels per day
+ZWCD_SAC_10YR,"Cooling Degree Days South Atlantic, Prior 10-Year Average",total degree days
+ZWCD_PAC_10YR,"Cooling Degree Days Pacific, Prior 10-Year Average",total degree days
+PADI_ID,"Unplanned liquid fuel production disruptions, Indonesia",million barrels per day
+PADI_IR,"Unplanned crude oil production disruptions, Iran",million barrels per day
+PADI_IZ,"Unplanned crude oil production disruptions, Iraq",million barrels per day
+PADI_LY,"Unplanned crude oil production disruptions, Libya",million barrels per day
+PADI_MX,"Unplanned liquid fuel production disruptions, Mexico",million barrels per day
+PADI_NI,"Unplanned crude oil production disruptions, Nigeria",million barrels per day
+PADI_NONOPEC,"Unplanned liquid fuel production disruptions, countries outside of the Organization of the Petroleum Exporting Countries",million barrels per day
+PADI_SU,"Unplanned liquid fuel production disruptions, Sudan and South Sudan",million barrels per day
+PADI_SY,"Unplanned liquid fuel production disruptions, Syria",million barrels per day
+PADI_US,"Unplanned liquid fuel production disruptions, United States",million barrels per day
+PADI_YM,"Unplanned liquid fuel production disruptions, Yemen",million barrels per day
+CLSHPUS,Coal Secondary Inventories Commercial and Institutional,"million short tons, end-of-period"
+CHEOPUS,Comm. and Indus. Sectors Total Generation,billion kilowatthours per day
+DFFPPUS,Distillate Fuel Oil Adjustment,million barrels per day
+ZWCD_ENC_10YR,"Cooling Degree Days E. N. Central, Prior 10-Year Average",total degree days
+ZWCD_ESC_10YR,"Cooling Degree Days E. S. Central, Prior 10-Year Average",total degree days
+ZWCD_MAC_10YR,"Cooling Degree Days Middle Atlantic, Prior 10-Year Average",total degree days
+ZWCD_MTN_10YR,"Cooling Degree Days Mountain, Prior 10-Year Average",total degree days
+ZWCD_NEC_10YR,"Cooling Degree Days New England, Prior 10-Year Average",total degree days
+ZWCD_US_10YR,"Cooling Degree Days U.S. Average , Prior 10-Year Average",total degree days
+LGRIPUS,Liquefied Petroleum Gas Refinery Input,million barrels per day
+PRNIPUS,Propane/Propylene Net Imports,million barrels per day
+PRTCPUS,Propane/Propylene Product Supplied,million barrels per day
+PADI_PE,"Unplanned liquid fuel production disruptions, Peru",million barrels per day
+NGWG_EAST,Natural Gas Working Inventory East Region,"billion cubic feet, end-of-period"
+NGWG_MW,Natural Gas Working Inventory Midwest Region,"billion cubic feet, end-of-period"
+NGWG_SC,Natural Gas Working Inventory South Central Consuming Region,"billion cubic feet, end-of-period"
+NGWG_PAC,Natural Gas Working Inventory Pacific Region,"billion cubic feet, end-of-period"
+NGWG_MTN,Natural Gas Working Inventory Mountain Region,"billion cubic feet, end-of-period"
+NGWG_AK,Natural Gas Working Inventory Alaska,"billion cubic feet, end-of-period"
+BAEPCGW_US,U.S. electric power sector battery storage net summer generating capacity,gigawatts
+CLEPCGW_US,U.S. electric power sector coal net summer generating capacity,gigawatts
+GEEPCGW_US,U.S. electric power sector geothermal net summer generating capacity,gigawatts
+HPEPCGW_US,U.S. electric power sector pumped-storage hydropower net summer generating capacity,gigawatts
+HVEPCGW_US,U.S. electric power sector conventional hydropower net summer generating capacity,gigawatts
+NGEPCGW_US,U.S. electric power sector natural gas net summer generating capacity,gigawatts
+NUEPCGW_US,U.S. electric power sector nuclear net summer generating capacity,gigawatts
+OGEPCGW_US,U.S. electric power sector other fossil gases net summer generating capacity,gigawatts
+OTEPCGW_US,U.S. electric power sector other non-renewable sources net summer generating capacity,gigawatts
+OWEPCGW_US,U.S. electric power sector waste biomass net summer generating capacity,gigawatts
+PAEPCGW_US,U.S. electric power sector petroleum net summer generating capacity,gigawatts
+SOEPCGWX_US,U.S. electric power sector solar net summer generating capacity,gigawatts
+TETCCO2,Total Energy CO2 Emissions,million metric tons
+PRROPUS,Propane/Propylene Refinery and Blender Net Production,million barrels per day
+PADI_GH,"Unplanned liquid fuel production disruptions, Ghana",million barrels per day
+REXCBUS,Total Consumption of Renewable Energy for Electricity and Heat Generation,Quadrillion Btu
+C4FPPUS,Butanes Production at Natural Gas Processing Plants,million barrels per day
+C4NIPUS,Butanes/Butylenes Net Imports,million barrels per day
+C4PSPUS,Butanes/Butylenes Inventory,"million barrels, end-of-period"
+C4RIPUS,Butanes Refinery and Blender Net Inputs,million barrels per day
+C4ROPUS,Butanes/Butylenes Refinery and Blender Net Production,million barrels per day
+PAPR_GY,"Crude Oil and Liquid Fuels Supply, Guyana",million barrels per day
+BFACBUS,Subtotal Renewable Energy Consumption: Transportation Sector,Quadrillion Btu
+C4TCPUS,Butanes/Butylenes Product Supplied,million barrels per day
+NLNIPUS,Hydrocarbon Gas Liquids Net Imports,million barrels per day
+NLPSPUS,Hydrocarbon Gas Liquids Inventory,"million barrels, end-of-period"
+NLRIPUS,Hydrocarbon Gas Liquids Refinery and Blender Net Inputs,million barrels per day
+NLROPUS,Hydrocarbon Gas Liquids Refinery and Blender Net Production,million barrels per day
+NGEXPUS_LNG,Natural Gas LNG Gross Exports,billion cubic feet per day
+NGEXPUS_PIPE,Natural Gas Pipeline Gross Exports,billion cubic feet per day
+NLTCPUS,Hydrocarbon Gas Liquids Total Consumption ,million barrels per day
+PADI_KU,"Unplanned crude oil production disruptions, Kuwait",million barrels per day
+PADI_SA,"Unplanned liquid fuel production disruptions, Saudi Arabia",million barrels per day
+BFLCBUS,Biofuel Losses and Co-products,Quadrillion Btu
+BFTCBUS,Biofuel Total Consumption,Quadrillion Btu
+BDPSPUS,Biodiesel Inventory,million barrels
+COPR_WORLD,Total World Crude Oil Production,million barrels per day
+LGTCPUS,Liquefied Petroleum Gas Product Supplied,million barrels per day
+TOPRL48,Tight oil production,million barrels per day
+QSIC_DF_PCT,Distillate-weighted Industrial Production Index,Percent change from prior year
+PADI_AR,"Unplanned liquid fuel production disruptions, Argentina",million barrels per day
+PADI_AS,"Unplanned liquid fuel production disruptions, Australia",million barrels per day
+ZWHD_ENC,Heating Degree Days E. N. Central,total degree days
+ZWHD_ESC,Heating Degree Days E. S. Central,total degree days
+ZWHD_WNC,Heating Degree Days W. N. Central,total degree days
+PADI_BR,"Unplanned liquid fuel production disruptions, Brazil",million barrels per day
+PADI_CA,"Unplanned liquid fuel production disruptions, Canada",million barrels per day
+ZWCD_WNC,Cooling Degree Days W. N. Central,total degree days
+ABRIPUS,Aviation Gasoline Blend Components Refinery Input,million barrels per day
+CGSP_MTN,Real Gross State Product Mountain,billion chained 2017 dollars (seasonally-adjusted annual rate)
+CLPRPAR_TON,Coal Production Appalachia Region,million short tons
+CLEPCON_TON,Electric Power Sector Coal Consumption,million short tons
+PADI_CH,"Unplanned liquid fuel production disruptions, China",million barrels per day
+PARIPUS,Total Refinery Input,million barrels per day
+DKCOPUS,Industrial Sector Generation from Distillate Fuel Oil,billion kilowatthours per day
+SOTOPUS,Generation from Large-Scale Solar by All Sectors,billion kilowatthours per day
+ESTCU_HAK,"Retail Price of Electricity for All Sectors, Alaska and Hawaii",cents per kilowatt hour
+CGSP_ENC,Real Gross State Product E. N. Central,billion chained 2017 dollars (seasonally-adjusted annual rate)
+ZWCD_PAC,Cooling Degree Days Pacific,total degree days
+ZWCDPUS,Cooling Degree Days U.S. Average,total degree days
+WWEPTOT,Electric Power Sector Generation from Wood Biomass,billion kilowatthours per day
+PATC_WORLD,"Liquid Fuels Consumption, Total World",million barrels per day
+PCEPTOT,Electric Power Sector Generation from Petroleum Coke,billion kilowatthours per day
+PPRIPUS,Natural Gasoline (Pentanes Plus) Refinery and Blender Net  Input,million barrels per day
+PRIMEUS,U.S. Prime Lending Rate,Percent
+PRPSPP1,Propane/Propylene PADD 1 (East Coast) Inventory,"million barrels, end-of-period"
+PRPSPP3,Propane/Propylene PADD 3 (Gulf Coast) Inventory,"million barrels, end-of-period"
+QHALLC_WSC,Households W. S. Central,thousands
+RFPSPUS,Residual Fuel Oil Inventory,"million barrels, end-of-period"
+RFTCUUS,No. 6 Residual Fuel Oil Price,cents per gallon
+RGDPQ_WORLD,World Real Gross Domestic Product,"Index, 2015 Q1 = 100"
+RGDPQ_WORLD_PCT,"World Real Gross Domestic Product, Percent Change From Prior Year",Percent
+RSPRPUS,Total Raw Steel Production,million short tons
+SOEPTOT,Electric Power Sector Generation from Large-Scale Solar,billion kilowatthours per day
+T3B_PAPR_R01,"Crude Oil and Liquid Fuels Supply, Total North America",million barrels per day
+T3_STCHANGE_OOECD,"Net Inventory Withdrawals, Total Other OECD Crude Oil and Other Liquids",million barrels per day
+TDLOPUS,Transmission & Distribution Losses and Unaccounted For,billion kilowatthours per day
+UORIPUS,Unfinished Oils Refinery Input,million barrels per day
+WPCPIUS,Producer Price Index: All Commodities,"Index, 1982=1.00"
+WWCOPUS,Industrial Sector Generation from Wood Biomass,billion kilowatthours per day
+CLEXPSC_TON,Steam Coal Gross Exports,million short tons
+CLMRHUS,Coal Miner Productivity,tons per hour
+BDPRPUS,Biodiesel Production,million barrels per day
+ELNIPUS,Net Imports of Electricity to the United States,billion kilowatthours per day
+EXACP_HAK,"Retail Sales of Electricity in Transportation Sector, Alaska and Hawaii",million kilowatthours per day
+IPMFG_WNC,"Industrial Output, Manufacturing, W. N. Central","Index, 2017=100"
+CYRPIC_ENC,Real Personal Income E. N. Central,billion chained 2017 dollars (seasonally-adjusted annual rate)
+ESCMU_WSC,"Retail Price of Electricity in Commercial Sector, West South Central",cents per kilowatt hour
+ESTCU_SAC,"Retail Price of Electricity for All Sectors, South Atlantic",cents per kilowatt hour
+ZWHD_MAC,Heating Degree Days Middle Atlantic,total degree days
+RAIMUUS,Imported  Crude Oil Price,dollars per barrel
+DSRTUUS,"Diesel Fuel Retail Price Including Taxes, U.S. Average",cents per gallon
+NGRCU_ENC,"Retail Price of Natural Gas in Residential Sector, E. N. Central",dollars per thousand cubic feet
+NGRCU_SAC,"Retail Price of Natural Gas in Residential Sector, S. Atlantic",dollars per thousand cubic feet
+COPS_AG,Algeria Spare Crude Oil Production Capacity,million barrels per day
+COPS_KU,Kuwait Spare Crude Oil Production Capacity,million barrels per day
+COPS_NI,Nigeria Spare Crude Oil Production Capacity,million barrels per day
+PATC_R06,"Liquid Fuels Consumption, Total Africa",million barrels per day
+PASC_OECD_T3,OECD End-of-period Commercial Crude Oil and Other Liquids Inventory,"million barrels, end-of-period"
+RFTCPUS,Residual Fuel Oil Product Supplied,million barrels per day
+JFPSPUS,Jet Fuel Inventory,"million barrels, end-of-period"
+RFCOPUS,Industrial Sector Generation from Residual Fuel Oil,billion kilowatthours per day
+OGCEPUS,Commercial sector generation from other fossil gases,billion kilowatthours per day
+WWTOPUS,Generation from Wood Biomass by All Sectors,billion kilowatthours per day
+PATC_RS,"Liquid Fuels Consumption, Russia",million barrels per day
+HVTOPUS,Generation from Conventional Hydropower by All Sectors,billion kilowatthours per day
+CLIMPUS_TON,Coal Gross Imports,million short tons
+PADI_CO,"Unplanned liquid fuel production disruptions, Colombia",million barrels per day
+PADI_GB,"Unplanned liquid fuel production disruptions, Gabon",million barrels per day
+NUTOPUS,Generation from Nuclear by All Sectors,billion kilowatthours per day
+ESCMU_HAK,"Retail Price of Electricity in Commercial Sector, Alaska and Hawaii",cents per kilowatt hour
+CLSTPUS,Coal Secondary Inventories,"million short tons, end-of-period"
+PAPR_NONOPEC_I_OPECNC,Non- OPEC + OPEC non-crude Production,million barrels per day
+BDNIPUS,Biodiesel Net Imports,million barrels per day
+WWCEPUS,Commercial Sector Generation from Wood Biomass,billion kilowatthours per day
+DKCEPUS,Commercial Sector Generation from Distillate Fuel Oil,billion kilowatthours per day
+ESICU_HAK,"Retail Price of Electricity in Industrial Sector, Alaska and Hawaii",cents per kilowatt hour
+CLTSPUS_TON,Total Coal Supply,million short tons
+CLSKPUS,Coal Secondary Inventories Coke Plants,"million short tons, end-of-period"
+NGHHUUS,Natural Gas Henry Hub Spot Price ($/mmBtu),dollars per million Btu
+PATC_MX,"Liquid Fuels Consumption, Mexico",million barrels per day
+MGRARP1,"Gasoline Regular Grade Retail Price Incl Taxes, PADD 1 (East Coast)",cents per gallon
+HPTOPUS,Generation from Pumped Storage Hydropower by All Sectors,billion kilowatthours per day
+EXICP_HAK,"Retail Sales of Electricity in Industrial Sector, Alaska and Hawaii",million kilowatthours per day
+QHALLC_ENC,Households E. N. Central,thousands
+CLPRPWR_TON,Coal Production Western Region,million short tons
+ETXXSUP,Total Supply of Electricity in United States,billion kilowatthours per day
+ELDUPUS,Direct Use of Electricity by Commercial and Industrial Facilities,billion kilowatthours per day
+PATC_R05,"Liquid Fuels Consumption, Total Middle East",million barrels per day
+CLTOPUS,Generation from Coal by All Sectors,billion kilowatthours per day
+RTEPGEN_CA,"Electric power sector net generation from renewable energy (all types), California",billion kilowatthours
+RNEPGEN_CA,"Electric power sector net generation from renewables excluding hydropower, California",billion kilowatthours
+PAEPGEN_CA,"Electric power sector net generation from petroleum, California",billion kilowatthours
+OGEPGEN_CA,"Electric power sector net generation from other fossil gases, California",billion kilowatthours
+XXEPGEN_CA,"Electric power sector net generation from other energy sources, California",billion kilowatthours
+TOEPGEN_CA,"Electric power sector total net generation from all types of energy sources, California",billion kilowatthours
+ELLOAD_CA,"Net energy for electricity load, California",billion kilowatthours
+NGEPGEN_FL,"Electric power sector net generation from natural gas, Florida (FRCC)",billion kilowatthours
+BMEPGEN_CA,"Electric power sector net generation from biomass, California",billion kilowatthours
+CLEPGEN_FL,"Electric power sector net generation from coal, Florida (FRCC)",billion kilowatthours
+HPEPGEN_FL,"Electric power sector net generation from pumped storage hydropower, Florida (FRCC)",billion kilowatthours
+HVEPGEN_FL,"Electric power sector net generation from conventional hydropower, Florida (FRCC)",billion kilowatthours
+WNEPGEN_FL,"Electric power sector net generation from wind, Florida (FRCC)",billion kilowatthours
+SOEPGEN_FL,"Electric power sector net generation from utility-scale solar, Florida (FRCC)",billion kilowatthours
+GEEPGEN_FL,"Electric power sector net generation from geothermal, Florida (FRCC)",billion kilowatthours
+MGTCPUSX,Motor Gasoline Product Supplied,million barrels per day
+MGTSPP2,Total Motor Gasoline PADD 2 (Midwest) Inventory,"million barrels, end-of-period"
+NGBGPUS,Natural Gas Base Gas Inventory,"billion cubic feet, end-of-period"
+NUEPGEN_FL,"Electric power sector net generation from nuclear, Florida (FRCC)",billion kilowatthours
+GEEPGEN_CA,"Electric power sector net generation from geothermal, California",billion kilowatthours
+SOEPGEN_CA,"Electric power sector net generation from utility-scale solar, California",billion kilowatthours
+WNEPGEN_CA,"Electric power sector net generation from wind, California",billion kilowatthours
+GEEPGEN_US,"Electric power sector net generation from geothermal, United States",billion kilowatthours
+WWEPGEN_US,"Electric power sector net generation from wood biomass, United States",billion kilowatthours
+OWEPGEN_US,"Electric power sector net generation from waste biomass, United States",billion kilowatthours
+BMEPGEN_US,"Electric power sector net generation from biomass, United States",billion kilowatthours
+RTEPGEN_US,"Electric power sector net generation from renewable energy (all types), United States",billion kilowatthours
+RNEPGEN_US,"Electric power sector net generation from renewables excluding hydropower, United States",billion kilowatthours
+PAEPGEN_US,"Electric power sector net generation from petroleum, United States",billion kilowatthours
+OGEPGEN_US,"Electric power sector net generation from other fossil gases, United States",billion kilowatthours
+OBEPGEN_US,"Electric power sector net generation from other nonrenewable fuels, United States",billion kilowatthours
+COPR_CF,"Crude Oil Production, Congo (Brazzaville)",million barrles per day
+COPC_CF,Congo (Brazzaville) Crude Oil Production Capacity,million barres per day
+COPS_CF,Congo (Brazzaville) Spare Crude Oil Production Capacity,million barrels per day
+TOEPGEN_US,"Total electric power sector net generation by all energy sources, United States",billion kilowatthours
+ELLOAD_US,"Net energy for electricity load, United States",billion kilowatthours
+NGEPGEN_CA,"Electric power sector net generation from natural gas, California",billion kilowatthours
+CLEPGEN_CA,"Electric power sector net generation from coal, California",billion kilowatthours
+NUEPGEN_CA,"Electric power sector net generation from nuclear, California",billion kilowatthours
+HPEPGEN_CA,"Electric power sector net generation from pumped storage hydropower, California",billion kilowatthours
+HVEPGEN_CA,"Electric power sector net generation from conventional hydropower, California",billion kilowatthours
+NGCCP_ENC,"Natural Gas Consumption Commercial Sector, E. N. Central",billion cubic feet per day
+NGCCP_MAC,"Natural Gas Consumption Commercial Sector, Middle Atlantic",billion cubic feet per day
+NGCCP_WSC,"Natural Gas Consumption Commercial Sector, W. S. Central",billion cubic feet per day
+NGCCU_ENC,"Retail Price of Natural Gas in Commercial Sector, E. N. Central",dollars per thousand cubic feet
+PAEPTOT,Electric Power Sector Generation from Petroleum (All Types),billion kilowatthours per day
+PAPR_CH,"Crude Oil and Liquid Fuels Supply, China",million barrels per day
+PAPR_OFSU,"Crude Oil and Liquid Fuels Supply, Other Eurasia",million barrels per day
+PAPR_VM,"Crude Oil and Liquid Fuels Supply, Vietnam",million barrels per day
+PASXPUS,Total End-of-period Commercial Crude Oil and Other Liquids Inventory,"million barrels, end-of-period"
+PATC_BR,"Liquid Fuels Consumption, Brazil",million barrels per day
+PATC_NON_OECD,"Liquid Fuels Consumption, Total non-OECD",million barrels per day
+PATC_R03,"Liquid Fuels Consumption, Total Europe",million barrels per day
+PATC_R07,"Liquid Fuels Consumption, Total Asia and Oceania",million barrels per day
+PATC_US,"Liquid Fuels Consumption, United States",million barrels per day
+PCPS_EP,"Petroleum Coke Stocks, Electric Power Sector","million barrels, end-of-period"
+PPPSPUS,Natural Gasoline (Pentanes Plus)Inventory,"million barrels, end-of-period"
+PPTCPUS,Natural Gasoline (Pentanes Plus) Product Supplied,million barrels per day
+PRPSPP5,Propane/Propylene PADD 5 (West Coast) Inventory,"million barrels, end-of-period"
+PCCOPUS,Industrial Sector Generation from Petroleum Coke,billion kilowatthours per day
+RFCEPUS,Commercial Sector Generation from Residual Fuel Oil,billion kilowatthours per day
+PCCEPUS,Commercial Sector Generation from Petroleum Coke,billion kilowatthours per day
+PATOPUS,Generation from Petroleum by All Sectors,billion kilowatthours per day
+EXTCP_ENC,"Retail Sales of Electricity in All Sectors, East North Central",million kilowatthours per day
+OPEPTOT,Electric Power Sector Generation from Other Petroleum,billion kilowatthours per day
+NGTOPUS,Generation from Natural Gas by All Sectors,billion kilowatthours per day
+OHNIPUS,Other HC/Oxygenates Net Imports,million barrels per day
+NGTCPUS,US Natural Gas Consumption,billion cubic feet per day
+NGCCU_MAC,"Retail Price of Natural Gas in Commercial Sector, Middle Atlantic",dollars per thousand cubic feet
+NGCEPUS,Commercial Sector Generation from Natural Gas,billion kilowatthours per day
+NGEPTOT,Electric Power Sector Generation from Natural Gas,billion kilowatthours per day
+NGICU_MTN,"Retail Price of Natural Gas in Industrial Sector, Mountain",dollars per thousand cubic feet
+NGICU_SAC,"Retail Price of Natural Gas in Industrial Sector, S. Atlantic",dollars per thousand cubic feet
+NGIMPUS_LNG,Natural Gas LNG Gross Imports,billion cubic feet per day
+NGINX_ESC,"Natural Gas Consumption Industrial Sector, E. S. Central",billion cubic feet per day
+NGINX_MTN,"Natural Gas Consumption Industrial Sector, Mountain",billion cubic feet per day
+NGINX_SAC,"Natural Gas Consumption Industrial Sector, S. Atlantic",billion cubic feet per day
+NGLPPUS,Natural Gas Lease and Plant Fuel,billion cubic feet per day
+NGMP48NGOM,Natural Gas Lower 48 States (excl GOM) Marketed Production,billion cubic feet per day
+NGMPPAK,Natural Gas Alaska Marketed Production,billion cubic feet per day
+NGNIPUS,Natural Gas Net Imports,billion cubic feet per day
+NGPRPUS,Natural Gas Total Dry Production,billion cubic feet per day
+NGRCPUS,"Natural Gas Consumption Residential Sector, U.S. Total",billion cubic feet per day
+NGRCP_MTN,"Natural Gas Consumption Residential Sector, Mountain",billion cubic feet per day
+NGRCP_SAC,"Natural Gas Consumption Residential Sector, S. Atlantic",billion cubic feet per day
+NGRCP_WSC,"Natural Gas Consumption Residential Sector, W. S. Central",billion cubic feet per day
+NGRCU_WSC,"Retail Price of Natural Gas in Residential Sector, W. S. Central",dollars per thousand cubic feet
+NGUSPUS,Natural Gas Total Inventory,"billion cubic feet, end-of-period"
+EXACP_SAC,"Retail Sales of Electricity in Transportation Sector, South Atlantic",million kilowatthours per day
+EXTCP_ESC,"Retail Sales of Electricity in All Sectors, East South Central",million kilowatthours per day
+ESRCU_HAK,"Retail Price of Electricity in Residential Sector, Alaska and Hawaii",cents per kilowatt hour
+NGINX_WSC,"Natural Gas Consumption Industrial Sector, W. S. Central",billion cubic feet per day
+NGMPPUS,Natural Gas Total Marketed Production,billion cubic feet per day
+NGNWPUS,Natural Gas Net Withdrawals from Inventory,billion cubic feet per day
+NGRCP_MAC,"Natural Gas Consumption Residential Sector, Middle Atlantic",billion cubic feet per day
+NGRCU_ESC,"Retail Price of Natural Gas in Residential Sector, E. S. Central",dollars per thousand cubic feet
+NGVHPUS,Natural Gas Vehicle Use,billion cubic feet per day
+OGCOPUS,Industrial sector generation from other fossil gases,billion kilowatthours per day
+OPEC_NC,OPEC non-Crude Oil Liquids Production,million barrels per day
+NGINX_PAC,"Natural Gas Consumption Industrial Sector, Pacific",billion cubic feet per day
+OTCOPUS,Industrial Sector Generation from Other Nonrenewable Fuels,billion kilowatthours per day
+PAPR48NGOM,Lower 48 States (excl GOM) Crude Oil Production,million barrels per day
+PAPRPAK,Alaska Crude Oil Production,million barrels per day
+PAPRPGLF,Crude Oil Production Federal Gulf of Mexico,million barrels per day
+PAPR_AJ,"Crude Oil and Liquid Fuels Supply, Azerbaijan",million barrels per day
+PAPR_AR,"Crude Oil and Liquid Fuels Supply, Argentina",million barrels per day
+PAPR_AS,"Crude Oil and Liquid Fuels Supply, Australia",million barrels per day
+CLWCPUS_TON,Waste Coal Production,million short tons
+CLYCPUS_TON,Other Industrial Coal Consumption,million short tons
+OXRIPUS,Oxygenates (excluding Fuel Ethanol) Refinery Input,million barrels per day
+NGIMPUS,Natural Gas Total Gross Imports,billion cubic feet per day
+NGICUUS,"Retail Price of Natural Gas in Industrial Sector, U.S. Average",dollars per thousand cubic feet
+NGCCU_WSC,"Retail Price of Natural Gas in Commercial Sector, W. S. Central",dollars per thousand cubic feet
+QHALLC_SAC,Households S. Atlantic,thousands
+QHALLC_WNC,Households W. N. Central,thousands
+T3B_PAPR_R03,"Crude Oil and Liquid Fuels Supply, Total Europe",million barrels per day
+WTIPUUS,West Texas Intermediate Crude Oil Price,dollars per barrel
+I87RXUS,Real Private Fixed Investment,billion chained 2017 dollars (seasonally-adjusted annual rate)
+IPMFG_NEC,"Industrial Output, Manufacturing, New England","Index, 2017=100"
+JFTCPUS,Jet Fuel Product Supplied,million barrels per day
+LGROPUS,Liquefied Petroleum Gas Refinery Output,million barrels per day
+MBRIPUS,Motor Gasoline Blend Components Refinery Input,million barrels per day
+MGRARP2,"Gasoline Regular Grade Retail Price Incl Taxes, PADD 2 (Midwest)",cents per gallon
+MGRARP4,"Gasoline Regular Grade Retail Price Incl Taxes, PADD 4 (Rocky Mountain)",cents per gallon
+MGRARP5,"Gasoline Regular Grade Retail Price Incl Taxes, PADD 5 (West Coast)",cents per gallon
+MGTSPP3,Total Motor Gasoline PADD 3 (Gulf Coast) Inventory,"million barrels, end-of-period"
+MGTSPUS,Total Motor Gasoline U.S. Total Inventory,"million barrels, end-of-period"
+MVVMPUS,Vehicle Miles Traveled,million miles/day
+NGCCP_MTN,"Natural Gas Consumption Commercial Sector, Mountain",billion cubic feet per day
+NGCCP_SAC,"Natural Gas Consumption Commercial Sector, S. Atlantic",billion cubic feet per day
+NGCCUUS,"Retail Price of Natural Gas in Commercial Sector, U.S. Average",dollars per thousand cubic feet
+NGCCU_WNC,"Retail Price of Natural Gas in Commercial Sector, W. N. Central",dollars per thousand cubic feet
+CMEOPUS,Commercial Sector Total Generation,billion kilowatthours per day
+CODIPUS,Refinery Distillation Inputs  ,million barrels per day
+CONIPUS,Crude Oil Net Imports,million barrels per day
+COPC_AG,Algeria Crude Oil Production Capacity,million barrels per day
+ESTCU_MTN,"Retail Price of Electricity for All Sectors, Mountain",cents per kilowatt hour
+EXCCP_MTN,"Retail Sales of Electricity in Commercial Sector, Mountain",million kilowatthours per day
+EXCCP_SAC,"Retail Sales of Electricity in Commercial Sector, South Atlantic",million kilowatthours per day
+EXICP_ENC,"Retail Sales of Electricity in Industrial Sector, East North Central",million kilowatthours per day
+EXICP_MTN,"Retail Sales of Electricity in Industrial Sector, Mountain",million kilowatthours per day
+EXICP_NEC,"Retail Sales of Electricity in Industrial Sector, New England",million kilowatthours per day
+EXICP_SAC,"Retail Sales of Electricity in Industrial Sector, South Atlantic",million kilowatthours per day
+EXICP_WSC,"Retail Sales of Electricity in Industrial Sector, West South Central",million kilowatthours per day
+EXRCP_ENC,"Retail Sales of Electricity in Residential Sector, East North Central",million kilowatthours per day
+EXRCP_MTN,"Retail Sales of Electricity in Residential Sector, Mountain",million kilowatthours per day
+EXRCP_WNC,"Retail Sales of Electricity in Residential Sector, West North Central",million kilowatthours per day
+HVCOPUS,Industrial Sector Generation from Conventional Hydroelectric,billion kilowatthours per day
+INEOPUS,Industrial Sector Total Generation,billion kilowatthours per day
+IPMFG_PAC,"Industrial Output, Manufacturing, Pacific","Index, 2017=100"
+JFROPUS,Jet Fuel Refinery Output,million barrels per day
+KQHMPUS,"Housing Stock, including mobile homes",millions
+LGPSPUS,Liquefied Petroleum Gas Inventory,"million barrels, end-of-period"
+MBFPPUSX,Motor Gasoline Blend Comp. Adjustment,million barrels per day
+PAPR_NONOPECPLUS,Non-OPEC Liquids Petroleum Production from non-OPEC+,million barrels per day
+ESRCU_WNC,"Retail Price of Electricity in Residential Sector, West North Central",cents per kilowatt hour
+QHALLC_PAC,Households Pacific,thousands
+ESRCU_SAC,"Retail Price of Electricity in Residential Sector, South Atlantic",cents per kilowatt hour
+ESICU_MTN,"Retail Price of Electricity in Industrial Sector, Mountain",cents per kilowatt hour
+COPC_IZ,Iraq Crude Oil Production Capacity,million barrels per day
+COPC_KU,Kuwait Crude Oil Production Capacity,million barrels per day
+COPC_OPEC,OPEC Total Crude Oil Production Capacity,million barrels per day
+COPC_VE,Venezuela Crude Oil Production Capacity,million barrels per day
+COPR_AG,"Crude Oil Production, Algeria",million barrels per day
+COPR_IZ,"Crude Oil Production, Iraq",million barrels per day
+COPR_KU,"Crude Oil Production, Kuwait",million barrels per day
+COPR_NI,"Crude Oil Production, Nigeria",million barrels per day
+COPR_TC,"Crude Oil Production, United Arab Emirates",million barrels per day
+COPS_OPEC,OPEC Total Spare Crude Oil Production Capacity,million barrels per day
+COSXPUS,Crude Oil Inventory (excluding SPR),"million barrels, end-of-period"
+DFPSPP2,Distillate Fuel Oil PADD 2 (Midwest) Inventory,"million barrels, end-of-period"
+DFROPUS,Distillate Fuel Refinery Output,million barrels per day
+DKEUDUS,Cost of Distillate Fuel Oil Delivered to Electric Generating Plants,dollars per million Btu
+EE_MAC,Total Non-Farm Employment Middle Atlantic,millions
+EE_PAC,Total Non-Farm Employment Pacific,millions
+EMNFPUS,Non-Farm Employment,millions
+EOTCPUS,Fuel Ethanol Consumption,million barrels per day
+ESCMU_MTN,"Retail Price of Electricity in Commercial Sector, Mountain",cents per kilowatt hour
+ESICU_SAC,"Retail Price of Electricity in Industrial Sector, South Atlantic",cents per kilowatt hour
+QHALLC_NEC,Households New England,thousands
+QHALLC_MTN,Households Mountain,thousands
+PPNIPUS,Natural Gasoline (Pentanes Plus)Net Imports,million barrels per day
+EXTCP_PAC,"Retail Sales of Electricity in All Sectors, Pacific Contiguous",million kilowatthours per day
+IPMFG_MAC,"Industrial Output, Manufacturing, Middle Atlantic","Index, 2017=100"
+CGSP_WSC,Real Gross State Product W. S. Central,billion chained 2017 dollars (seasonally-adjusted annual rate)
+CICPIUS,Consumer Price Index (all urban consumers),"Index, 1982-1984=1.00"
+CLEUDUS,Cost of Coal Delivered to Electric Generating Plants,dollars per million Btu
+CLEXPMC_TON,Metallurgical Coal Gross Exports,million short tons
+CLSD_DRAW_TON,Coal Primary Inventory Withdrawals,million short tons
+CLST_DRAW_TON,Coal Secondary Inventory Withdrawals,million short tons
+COPC_IR,Iran Crude Oil Production Capacity,million barrels per day
+COPC_LY,Libya Crude Oil Production Capacity,million barrels per day
+COPC_TC,United Arab Emirates Crude Oil Production Capacity,million barrels per day
+COPRPUS,U.S. Crude Oil Production,million barrels per day
+COPR_IR,"Crude Oil Production, Iran",million barrels per day
+COPR_LY,"Crude Oil Production, Libya",million barrels per day
+COPR_OPEC,"Crude Oil Production, OPEC Total",million barrels per day
+COPR_SA,"Crude Oil Production, Saudi Arabia",million barrels per day
+COPS_IR,Iran Spare Crude Oil Production Capacity,million barrels per day
+COPS_SA,Saudi Arabia Spare Crude Oil Production Capacity,million barrels per day
+COPS_VE,Venezuela Spare Crude Oil Production Capacity,million barrels per day
+EXACP_ENC,"Retail Sales of Electricity in Transportation Sector, East North Central",million kilowatthours per day
+CYRPIC_SAC,Real Personal Income S. Atlantic,billion chained 2017 dollars (seasonally-adjusted annual rate)
+CLCEPUS,Commercial Sector Generation from Coal,billion kilowatthours per day
+NGINX_ENC,"Natural Gas Consumption Industrial Sector, E. N. Central",billion cubic feet per day
+EE_ENC,Total Non-Farm Employment E. N. Central,millions
+CGSP_SAC,Real Gross State Product S. Atlantic,billion chained 2017 dollars (seasonally-adjusted annual rate)
+ESCMU_ESC,"Retail Price of Electricity in Commercial Sector, East South Central",cents per kilowatt hour
+CLPS_EP,Coal Secondary Inventories Electric Power Sector,"million short tons, end-of-period"
+CLEXPUS_TON,Coal Gross Exports,million short tons
+CLTCPUS_TON,Total Coal Consumption ,million short tons
+CLSDPUS,Coal Primary Inventories,"million short tons, end-of-period"
+ZWHD_SAC,Heating Degree Days South Atlantic,total degree days
+ESRCU_NEC,"Retail Price of Electricity in Residential Sector, New England",cents per kilowatt hour
+COPC_NI,Nigeria Crude Oil Production Capacity,million barrels per day
+COPC_SA,Saudi Arabia Crude Oil Production Capacity,million barrels per day
+COPS_IZ,Iraq Spare Crude Oil Production Capacity,million barrels per day
+LGFPPUS,Liquefied Petroleum Gas Field Production,million barrels per day
+UONIPUS,Unfinished Oils Net Imports,million barrels per day
+MGFPPUSX,Finished Motor Gasoline Adjustment,million barrels per day
+COSQPUS,Strategic Petroleum Reserve,"million barrels, end-of-period"
+MGTSPP4,Total Motor Gasoline PADD 4 (Rocky Mountain) Inventory,"million barrels, end-of-period"
+DFPSPP4,Distillate Fuel Oil PADD 4 (Rocky Mountain) Inventory,"million barrels, end-of-period"
+PRPSPP2,Propane/Propylene PADD 2 (Midwest) Inventory,"million barrels, end-of-period"
+NGICU_WSC,"Retail Price of Natural Gas in Industrial Sector, W. S. Central",dollars per thousand cubic feet
+SOEPGEN_US,"Electric power sector net generation from utility-scale solar, United States",billion kilowatthours
+CYRPIC_WSC,Real Personal Income W. S. Central,billion chained 2017 dollars (seasonally-adjusted annual rate)
+DKPS_EP,"Distillate Fuel Oil Stocks, Electric Power Sector","million barrels, end-of-period"
+PAPR_CO,"Crude Oil and Liquid Fuels Supply, Colombia",million barrels per day
+PAPR_EG,"Crude Oil and Liquid Fuels Supply, Egypt",million barrels per day
+PAPR_GB,"Crude Oil and Liquid Fuels Supply, Gabon",million barrels per day
+PAPR_IN,"Crude Oil and Liquid Fuels Supply, India",million barrels per day
+PAPR_KZ,"Crude Oil and Liquid Fuels Supply, Kazakhstan",million barrels per day
+PAPR_NONOECD,"Crude Oil and Liquid Fuels Supply, Total Non-OECD",million barrels per day
+PAPR_OLA,"Crude Oil and Liquid Fuels Supply, Other Central and S. America",million barrels per day
+PAPR_RS,"Crude Oil and Liquid Fuels Supply, Russia",million barrels per day
+PAPR_SY,"Crude Oil and Liquid Fuels Supply, Syria",million barrels per day
+PAPR_US,"Crude Oil and Liquid Fuels Supply, United States",million barrels per day
+PATC_CA,"Liquid Fuels Consumption, Canada",million barrels per day
+PATC_CH,"Liquid Fuels Consumption, China",million barrels per day
+PATC_OECD,"Liquid Fuels Consumption, Total OECD",million barrels per day
+PATC_R01,"Liquid Fuels Consumption, Total North America",million barrels per day
+PPFPPUS,Natural Gasoline (Pentanes Plus) Production at Natural Gas Processing Plants,million barrels per day
+PRPSPP4,Propane/Propylene PADD 4 (Rocky Mountain) Inventory,"million barrels, end-of-period"
+PSROPUS,Other Oils Refinery Output,million barrels per day
+QHALLC_MAC,Households Middle Atlantic,thousands
+RFEUDUS,Cost of Residual Fuel Oil Delivered to Electric Generating Plants,dollars per million Btu
+PAPR_CA,"Crude Oil and Liquid Fuels Supply, Canada",million barrels per day
+DFPSPUS,Distillate Fuel Oil U.S. Total Inventory,"million barrels, end-of-period"
+EXTCP_WNC,"Retail Sales of Electricity in All Sectors, West North Central",million kilowatthours per day
+EXRCP_WSC,"Retail Sales of Electricity in Residential Sector, West South Central",million kilowatthours per day
+DSWHUUS,Diesel Fuel Refiner Wholesale Price,cents per gallon
+EE_SAC,Total Non-Farm Employment S. Atlantic,millions
+EE_WSC,Total Non-Farm Employment W. S. Central,millions
+EONIPUS,Fuel Ethanol Net Imports,million barrels per day
+EOPRPUS,Fuel Ethanol Production,million barrels per day
+EPEOPUS,Electric Power Sector Total Generation,billion kilowatthours per day
+ESCMU_PAC,"Retail Price of Electricity in Commercial Sector, Pacific Contiguous",cents per kilowatt hour
+ESICU_ENC,"Retail Price of Electricity in Industrial Sector, East North Central",cents per kilowatt hour
+ESICU_ESC,"Retail Price of Electricity in Industrial Sector, East South Central",cents per kilowatt hour
+ESICU_NEC,"Retail Price of Electricity in Industrial Sector, New England",cents per kilowatt hour
+ESRCU_ENC,"Retail Price of Electricity in Residential Sector, East North Central",cents per kilowatt hour
+ESRCU_ESC,"Retail Price of Electricity in Residential Sector, East South Central",cents per kilowatt hour
+ESRCU_WSC,"Retail Price of Electricity in Residential Sector, West South Central",cents per kilowatt hour
+ESTCU_ESC,"Retail Price of Electricity for All Sectors, East South Central",cents per kilowatt hour
+ESTCU_PAC,"Retail Price of Electricity for All Sectors, Pacific Contiguous",cents per kilowatt hour
+ESTXPUS,Total Consumption of Electricity in United States,billion kilowatthours per day
+EXCCP_PAC,"Retail Sales of Electricity in Commercial Sector, Pacific Contiguous",million kilowatthours per day
+EXRCP_MAC,"Retail Sales of Electricity in Residential Sector, Middle Atlantic",million kilowatthours per day
+EXRCP_NEC,"Retail Sales of Electricity in Residential Sector, New England",million kilowatthours per day
+EXTCP_MTN,"Retail Sales of Electricity in All Sectors, Mountain",million kilowatthours per day
+WNEPGEN_US,"Electric power sector net generation from wind, United States",billion kilowatthours
+HVCEPUS,Commercial Sector Generation from Conventional Hydropower,billion kilowatthours per day
+MGRARP2_$,"Gasoline Regular Grade Retail Price Incl Taxes, PADD 2 (Midwest)",dollars per gallon
+CLNIPUS_TON,Coal Net Imports,million short tons
+BFPSPUS_DRAW,Biofuel Stock Draw,million barrels per day
+DAPSPUS_DRAW,Total Distillate Fuel Stock Draw,million barrels per day
+BFTCPUS,Total Biofuels Consumption,million barrels per day
+BDTCPUS_PS,Biodiesel Product Supplied,million barrels per day
+BDRIPUS,Biodiesel Net Inputs,million barrels per day
+RDTCPUS_PS,Renewable Diesel Product Supplied,million barrels per day
+RDRIPUS,Renewable Diesel Net Inputs,million barrels per day
+PRMBUUS_$,Mont Belvieu propane spot price,dollars per gallon
+MGTCPUSX_P,Petroleum-based Gasoline Consumption,million barrels per day
+DFTCPUS_P,Petroleum-based Diesel Consumption,million barrels per day
+BFPSPUS,Total Biofuels Inventories,million barrels
+DAPSPUS,Total Distillate Fuel Oil Inventories,million barrels
+RTEPGEN_NY,"Electric power sector net generation from renewable energy (all types), New York (NYISO)",billion kilowatthours
+RNEPGEN_NY,"Electric power sector net generation from renewables excluding hydropower, New York (NYISO)",billion kilowatthours
+PAEPGEN_NY,"Electric power sector net generation from petroleum, New York (NYISO)",billion kilowatthours
+OGEPGEN_NY,"Electric power sector net generation from other fossil gases, New York (NYISO)",billion kilowatthours
+C3ROPUS,Propane Refinery and Blender Net Production,million barrels per day
+DATCPUS,Total Distillate Fuel Oil Consumption,million barrels per day
+RFTCUUS_$,No. 6 Residual Fuel Oil Price,dollars per gallon
+JKTCUUS_$,Jet Fuel Refiner Price to End Users,dollars per gallon
+D2WHUUS_$,Heating Oil Refiner Wholesale Price,dollars per gallon
+MGRARP1_$,"Gasoline Regular Grade Retail Price Incl Taxes, PADD 1 (East Coast)",dollars per gallon
+MGRARP3_$,"Gasoline Regular Grade Retail Price Incl Taxes, PADD 3 (Gulf Coast)",dollars per gallon
+MGRARP4_$,"Gasoline Regular Grade Retail Price Incl Taxes, PADD 4 (Rocky Mountain)",dollars per gallon
+MGRARP5_$,"Gasoline Regular Grade Retail Price Incl Taxes, PADD 5 (West Coast)",dollars per gallon
+NGMPAP,Natural Gas Appalachia Marketed Production,billion cubic feet per day
+NGMPBK,Natural Gas Bakken Marketed Production,billion cubic feet per day
+NGMPEF,Natural Gas Eagle Ford Marketed Production,billion cubic feet per day
+NGMPHA,Natural Gas Haynesville Marketed Production,billion cubic feet per day
+NGMPPM,Natural Gas Permian Marketed Production,billion cubic feet per day
+NGMPR48,Natural Gas Rest of U.S. Marketed Production,billion cubic feet per day
+COPRAP,Crude Oil Production: Appalachia,million barrels per day
+COPRBK,Crude Oil Production: Bakken,million barrels per day
+COPREF,Crude Oil Production: Eagle Ford,million barrels per day
+COPRHA,Crude Oil Production: Haynesville,million barrels per day
+COPRPM,Crude Oil Production: Permian,million barrels per day
+COPRR48,Crude Oil Production: Rest of Lower 48 States,million barrels per day
+INEOTWH,"Total Net Generation of Electricity from Large-Scale Power Plants, Industrial Sector, United States",billion kilowatthours
+CMEOTWH,"Total Net Generation of Electricity from Large-Scale Power Plants, Commercial and Sector, United States",billion kilowatthours
+DSWHUUS_$,Diesel Fuel Refiner Wholesale Price,dollars per gallon
+P3ROPUS,Propylene Refinery and Blender Net Production,million barrels per day
+PAPR_QA,"Crude Oil and Liquid Fuels Supply, Qatar",million barrels per day
+XXEPGEN_NY,"Electric power sector net generation from other energy sources, New York (NYISO)",billion kilowatthours
+TOEPGEN_NY,"Electric power sector total net generation from all types of energy sources, New York (NYISO)",billion kilowatthours
+GEEPGEN_SE,"Electric power sector net generation from geothermal, Southeast (SERC)",billion kilowatthours
+BMEPGEN_SE,"Electric power sector net generation from biomass, Southeast (SERC)",billion kilowatthours
+RTEPGEN_SE,"Electric power sector net generation from renewable energy (all types), Southeast (SERC)",billion kilowatthours
+PADI_CD,"Unplanned liquid fuel production disruptions, Chad",million barrels per day
+BMEPCAP_US,Electric Power Sector Total Biomass Net Summer Capacity,megawatts
+OWEPCAP_US,Electric Power Sector Waste Biomass Net Summer Capacity,megawatts
+HVEPCAP_US,Electric Power Sector Conventional Hydroelectric Net Summer Capacity,megawatts
+BMCHCAP_US,Comm. and Indus. Sectors Total Biomass Net Summer Capacity,megawatts
+OWCHCAP_US,Comm. and Indus. Sectors Waste Biomass Net Summer Capacity,megawatts
+WWCHCAP_US,Comm. and Indus. Sectors Wood Biomass Net Summer Capacity,megawatts
+HVCHCAP_US,Comm. and Indus. Sectors Conventional Hydroelectric Net Summer Capacity,megawatts
+SOCHCAP_US,Comm. and Indus. Sectors Large-Scale Solar Net Summer Capacity,megawatts
+SODTC_US,Total Small-Scale Solar Photovoltaic Capacity,megawatts
+SODRC_US,Residential Sector Small-Scale Solar Photovoltaic Capacity,megawatts
+SODCC_US,Commercial Sector Small-Scale Solar Photovoltaic Capacity,megawatts
+SODIC_US,Industrial Sector Small-Scale Solar Photovoltaic Capacity,megawatts
+WNCHCAP_US,Comm. and Indus. Sectors Wind Net Summer Capacity,megawatts
+SODTP_US,"Total Generation from Small-Scale Solar Photovoltaic, United States",billion kilowatthours
+SODRP_US,"Residential Sector Generation from Small-Scale Solar Photovoltaic, United States",billion kilowatthours
+SOEPGEN_SE,"Electric power sector net generation from utility-scale solar, Southeast (SERC)",billion kilowatthours
+MGEIAUS_$,Gasoline All Grades Retail Price Including Taxes U.S. Average,dollars per gallon
+WNEPGEN_SE,"Electric power sector net generation from wind, Southeast (SERC)",billion kilowatthours
+HPEPGEN_SE,"Electric power sector net generation from pumped storage hydropower, Southeast (SERC)",billion kilowatthours
+ELLOAD_NY,"Net energy for electricity load, New York (NYISO)",billion kilowatthours
+CLEPGEN_PJ,"Electric power sector net generation from coal, Mid-Atlantic (PJM)",billion kilowatthours
+NUEPGEN_PJ,"Electric power sector net generation from nuclear, Mid-Atlantic (PJM)",billion kilowatthours
+HPEPGEN_PJ,"Electric power sector net generation from pumped storage hydropower, Mid-Atlantic (PJM)",billion kilowatthours
+HVEPGEN_PJ,"Electric power sector net generation from conventional hydropower, Mid-Atlantic (PJM)",billion kilowatthours
+WNEPGEN_PJ,"Electric power sector net generation from wind, Mid-Atlantic (PJM)",billion kilowatthours
+SOEPGEN_PJ,"Electric power sector net generation from utility-scale solar, Mid-Atlantic (PJM)",billion kilowatthours
+GEEPGEN_PJ,"Electric power sector net generation from geothermal, Mid-Atlantic (PJM)",billion kilowatthours
+BMEPGEN_PJ,"Electric power sector net generation from biomass, Mid-Atlantic (PJM)",billion kilowatthours
+RTEPGEN_PJ,"Electric power sector net generation from renewable energy (all types), Mid-Atlantic (PJM)",billion kilowatthours
+RNEPGEN_PJ,"Electric power sector net generation from renewables excluding hydropower, Mid-Atlantic (PJM)",billion kilowatthours
+PAEPGEN_PJ,"Electric power sector net generation from petroleum, Mid-Atlantic (PJM)",billion kilowatthours
+OGEPGEN_PJ,"Electric power sector net generation from other fossil gases, Mid-Atlantic (PJM)",billion kilowatthours
+XXEPGEN_PJ,"Electric power sector net generation from other energy sources, Mid-Atlantic (PJM)",billion kilowatthours
+TOEPGEN_PJ,"Electric power sector total net generation from all types of energy sources, Mid-Atlantic (PJM)",billion kilowatthours
+ELLOAD_PJ,"Net energy for electricity load, Mid-Atlantic (PJM)",billion kilowatthours
+NGEPGEN_SE,"Electric power sector net generation from natural gas, Southeast (SERC)",billion kilowatthours
+CLEPGEN_SE,"Electric power sector net generation from coal, Southeast (SERC)",billion kilowatthours
+NUEPGEN_SE,"Electric power sector net generation from nuclear, Southeast (SERC)",billion kilowatthours
+HVEPGEN_SE,"Electric power sector net generation from conventional hydropower, Southeast (SERC)",billion kilowatthours
+MGWHUUS_$,Refiner Wholesale Gasoline Price,dollars per gallon
+NGEOPR48,"Rest of Lower 48 States, excluding GOM Existing Gas Production Change, One-year Trend",million cubic feet per day
+NGEOPPM,"Permian Existing Gas Production Change, One-year Trend",million cubic feet per day
+HGPRPUS,Hydrocarbon Gas Liquids Total Production,million barrels per day
+RIGSAP,Appalachia Active Rigs,
+RIGSBK,Bakken Active Rigs,
+RIGSEF,Eagle Ford Active Rigs,
+RIGSHA,Haynesville Active Rigs,
+RIGSPM,Permian Active Rigs,
+RIGSR48,"Rest of Lower 48 States, excluding GOM Active Rigs",
+NWDAP,Appalachia New Wells Drilled,
+NWDBK,Bakken New Wells Drilled,
+NWDEF,Eagle Ford New Wells Drilled,
+NWDHA,Haynesville New Wells Drilled,
+NWDPM,Permian New Wells Drilled,
+NWDR48,"Rest of Lower 48 States, excluding GOM New Wells Drilled",
+NWRAP,Appalachia  New Wells Drilled Per Rig,
+NWRBK,Bakken  New Wells Drilled Per Rig,
+NWREF,Eagle Ford  New Wells Drilled Per Rig,
+NWRHA,Haynesville New Wells Drilled Per Rig,
+NWRPM,Permian New Wells Drilled Per Rig,
+NWRR48,"Rest of Lower 48 States, excluding GOM  New Wells Drilled Per Rig",
+MGTNIPUS,Total Motor Gasoline Net Imports,million barrels per day
+NWCAP,Appalachia New Wells Completed,
+SNGPRR48,Shale natural gas production from other U.S. formations,billion cubic feet per day
+SNGPRNI,Shale natural gas production from Niobrara Codell formation,billion cubic feet per day
+TOPRAC,Tight oil production from Austin Chalk formation,million barrels per day
+HVEPGEN_US,"Electric power sector net generation from conventional hydropower, United States",billion kilowatthours
+TOPRBK,Tight oil production from Bakken formation,million barrels per day
+TOPREF,Tight oil production from Eagle Ford formation,million barrels per day
+TOPRMP,Tight oil production from Mississippian formation,million barrels per day
+TOPRNI,Tight oil production from Niobrara Codell formation,million barrels per day
+TOPRPM,Tight oil production from Permian formations,million barrels per day
+TOPRWF,Tight oil production from Woodford formation,million barrels per day
+TOPRR48,Tight oil production from other U.S. formations,million barrels per day
+SNGPRL48,Shale dry natural gas production,billion cubic feet per day
+SNGPRMC,Shale natural gas production from Marcellus formation,billion cubic feet per day
+SNGPRUA,Shale natural gas production from Utica formation,billion cubic feet per day
+SNGPRHA,Shale natural gas production from Haynesville formation,billion cubic feet per day
+SNGPREF,Shale natural gas production from Eagle Ford formation,billion cubic feet per day
+SNGPRBK,Shale natural gas production from Bakken formation,billion cubic feet per day
+SNGPRPM,Shale natural gas production from Permian formations,billion cubic feet per day
+SNGPRBN,Shale natural gas production from Barnett formation,billion cubic feet per day
+SNGPRFY,Shale natural gas production from Fayetteville formation,billion cubic feet per day
+SNGPRMP,Shale natural gas production from Mississippian formation,billion cubic feet per day
+SNGPRWF,Shale natural gas production from Woodford formation,billion cubic feet per day
+SODCP_US,"Commercial Sector Generation from Small-Scale Solar Photovoltaic, United States",billion kilowatthours
+NWCBK,Bakken New Wells Completed,
+NWCHA,Haynesville New Wells Completed,
+COEOPHA,"Haynesville Existing Oil Production Change, One-year Trend",thousand barrels per day
+COEOPPM,"Permian Existing Oil Production Change, One-year Trend",thousand barrels per day
+COEOPR48,"Rest of Lower 48 States, excluding GOM Existing Oil Production Change, One-year Trend",thousand barrels per day
+NGNWAP,"Appalachia New-wells Gas Production, One-year Trend",million cubic feet per day
+NGNWBK,"Bakken New-wells Gas Production, One-year Trend",million cubic feet per day
+NGNWEF,"Eagle Ford New-wells Gas Production, One-year Trend",million cubic feet per day
+NGNWHA,"Haynesville New-wells Gas Production, One-year Trend",million cubic feet per day
+NGNWPM,"Permian New-wells Gas Production, One-year Trend",million cubic feet per day
+NGNWR48,"Rest of Lower 48 States, excluding GOM New-wells Gas Production, One-year Trend",million cubic feet per day
+NGNWRAP,"Appalachia New-wells Gas Production Per Rig, One-year Trend",million cubic feet per day
+NGNWRBK,"Bakken New-wells Gas Production Per Rig, One-year Trend",million cubic feet per day
+NGNWREF,"Eagle Ford New-wells Gas Production Per Rig, One-year Trend",million cubic feet per day
+NGNWRHA,"Haynesville New-wells Gas Production Per Rig, One-year Trend",million cubic feet per day
+NGNWRPM,"Permian New-wells Gas Production Per Rig, One-year Trend",million cubic feet per day
+NGNWRR48,"Rest of Lower 48 States, excluding GOM New-wells Gas Production Per Rig, One-year Trend",million cubic feet per day
+NGEOPAP,"Appalachia Existing Gas Production Change, One-year Trend",million cubic feet per day
+NGEOPBK,"Bakken Existing Gas Production Change, One-year Trend",million cubic feet per day
+NGEOPEF,"Eagle Ford Existing Gas Production Change, One-year Trend",million cubic feet per day
+NGEOPHA,"Haynesville Existing Gas Production Change, One-year Trend",million cubic feet per day
+COEOPEF,"Eagle Ford Existing Oil Production Change, One-year Trend",thousand barrels per day
+NWCEF,Eagle Ford New Wells Completed,
+COEOPBK,"Bakken Existing Oil Production Change, One-year Trend",thousand barrels per day
+CONWRR48,"Rest of Lower 48 States, excluding GOM New-wells Oil Production Per Rig, One-year Trend",thousand barrels per day
+NWCPM,Permian New Wells Completed,
+NWCR48,"Rest of Lower 48 States, excluding GOM New Wells Completed",
+DUCSAP,Appalachia Drilled but Uncompleted Wells ,
+DUCSBK,Bakken Drilled but Uncompleted Wells ,
+DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,
+DUCSHA,Haynesville Drilled but Uncompleted Wells ,
+DUCSPM,Permian Drilled but Uncompleted Wells ,
+DUCSR48,"Rest of Lower 48 States, excluding GOM Drilled but Uncompleted Wells ",
+CONWAP,"Appalachia New-wells Oil Production, One-year Trend",thousand barrels per day
+CONWBK,"Bakken New-wells Oil Production, One-year Trend",thousand barrels per day
+CONWEF,"Eagle Ford New-wells Oil Production, One-year Trend",thousand barrels per day
+CONWHA,"Haynesville New-wells Oil Production, One-year Trend",thousand barrels per day
+CONWPM,"Permian New-wells Oil Production, One-year Trend",thousand barrels per day
+CONWR48,"Rest of Lower 48 States, excluding GOM New-wells Oil Production, One-year Trend",thousand barrels per day
+CONWRAP,"Appalachia New-wells Oil Production Per Rig, One-year Trend",thousand barrels per day
+CONWRBK,"Bakken New-wells Oil Production Per Rig, One-year Trend",thousand barrels per day
+CONWREF,"Eagle Ford New-wells Oil Production Per Rig, One-year Trend",thousand barrels per day
+CONWRHA,"Haynesville New-wells Oil Production Per Rig, One-year Trend",thousand barrels per day
+CONWRPM,"Permian New-wells Oil Production Per Rig, One-year Trend",thousand barrels per day
+COEOPAP,"Appalachia Existing Oil Production Change, One-year Trend",thousand barrels per day
+SODIP_US,"Industrial Sector Generation from Small-Scale Solar Photovoltaic, United States",billion kilowatthours
+NGEPGEN_PJ,"Electric power sector net generation from natural gas, Mid-Atlantic (PJM)",billion kilowatthours
+NUEPSHR_US,Nuclear share of U.S. electricity generation,percentage
+CLEPGEN_TX,"Electric power sector net generation from coal, Texas (ERCOT)",billion kilowatthours
+NUEPGEN_TX,"Electric power sector net generation from nuclear, Texas (ERCOT)",billion kilowatthours
+HPEPGEN_TX,"Electric power sector net generation from pumped storage hydropower, Texas (ERCOT)",billion kilowatthours
+HVEPGEN_TX,"Electric power sector net generation from conventional hydropower, Texas (ERCOT)",billion kilowatthours
+WNEPGEN_TX,"Electric power sector net generation from wind, Texas (ERCOT)",billion kilowatthours
+SOEPGEN_TX,"Electric power sector net generation from utility-scale solar, Texas (ERCOT)",billion kilowatthours
+GEEPGEN_TX,"Electric power sector net generation from geothermal, Texas (ERCOT)",billion kilowatthours
+BMEPGEN_TX,"Electric power sector net generation from biomass, Texas (ERCOT)",billion kilowatthours
+RTEPGEN_TX,"Electric power sector net generation from renewable energy (all types), Texas (ERCOT)",billion kilowatthours
+RNEPGEN_TX,"Electric power sector net generation from renewables excluding hydropower, Texas (ERCOT)",billion kilowatthours
+PAEPGEN_TX,"Electric power sector net generation from petroleum, Texas (ERCOT)",billion kilowatthours
+OGEPGEN_TX,"Electric power sector net generation from other fossil gases, Texas (ERCOT)",billion kilowatthours
+XXEPGEN_TX,"Electric power sector net generation from other energy sources, Texas (ERCOT)",billion kilowatthours
+TOEPGEN_TX,"Electric power sector total net generation from all types of energy sources, Texas (ERCOT)",billion kilowatthours
+ELLOAD_TX,"Net energy for electricity load, Texas (ERCOT)",billion kilowatthours
+CLEPSHR_US,Coal share of U.S. electricity generation,percentage
+RTEPSHR_US,Renewables share of U.S. electricity generation,percentage
+SOICBUS,Industrial Sector Consumption of Solar Energy,Quadrillion Btu
+BMCHGEN_US,"Industrial and commercial sector net generation from biomass (all types), United States",billion kilowatthours
+NGEPGEN_TX,"Electric power sector net generation from natural gas, Texas (ERCOT)",billion kilowatthours
+HVCHGEN_US,"Industrial and commercial sector net generation from conventional hydropower, United States",billion kilowatthours
+ELLOAD_SW,"Net energy for electricity load, Southwest",billion kilowatthours
+XXEPGEN_SW,"Electric power sector net generation from other energy sources, Southwest",billion kilowatthours
+RTEPGEN_SP,"Electric power sector net generation from renewable energy (all types), Central (SPP ISO)",billion kilowatthours
+RNEPGEN_SP,"Electric power sector net generation from renewables excluding hydropower, Central (SPP ISO)",billion kilowatthours
+PAEPGEN_SP,"Electric power sector net generation from petroleum, Central (SPP ISO)",billion kilowatthours
+OGEPGEN_SP,"Electric power sector net generation from other fossil gases, Central (SPP ISO)",billion kilowatthours
+XXEPGEN_SP,"Electric power sector net generation from other energy sources, Central (SPP ISO)",billion kilowatthours
+TOEPGEN_SP,"Electric power sector total net generation from all types of energy sources, Central (SPP ISO)",billion kilowatthours
+ELLOAD_SP,"Net energy for electricity load, Central (SPP ISO)",billion kilowatthours
+NGEPGEN_SW,"Electric power sector net generation from natural gas, Southwest",billion kilowatthours
+CLEPGEN_SW,"Electric power sector net generation from coal, Southwest",billion kilowatthours
+NUEPGEN_SW,"Electric power sector net generation from nuclear, Southwest",billion kilowatthours
+HPEPGEN_SW,"Electric power sector net generation from pumped storage hydropower, Southwest",billion kilowatthours
+HVEPGEN_SW,"Electric power sector net generation from conventional hydropower, Southwest",billion kilowatthours
+WNEPGEN_SW,"Electric power sector net generation from wind, Southwest",billion kilowatthours
+SOEPGEN_SW,"Electric power sector net generation from utility-scale solar, Southwest",billion kilowatthours
+GEEPGEN_SW,"Electric power sector net generation from geothermal, Southwest",billion kilowatthours
+BMEPGEN_SW,"Electric power sector net generation from biomass, Southwest",billion kilowatthours
+RTEPGEN_SW,"Electric power sector net generation from renewable energy (all types), Southwest",billion kilowatthours
+RNEPGEN_SW,"Electric power sector net generation from renewables excluding hydropower, Southwest",billion kilowatthours
+OGEPGEN_SW,"Electric power sector net generation from other fossil gases, Southwest",billion kilowatthours
+TOEPGEN_SW,"Electric power sector total net generation from all types of energy sources, Southwest",billion kilowatthours
+BMEPGEN_SP,"Electric power sector net generation from biomass, Central (SPP ISO)",billion kilowatthours
+OWCHGEN_US,"Industrial and commercial sector net generation from waste biomass, United States",billion kilowatthours
+WNCHGEN_US,"Industrial and commercial sector net generation from wind, United States",billion kilowatthours
+NGEPCNS_NW,"Electric power sector  consumption of natural gas, Northwest",billion cubic feet
+NGEPCNS_NY,"Electric power sector  consumption of natural gas, New York (NYISO)",billion cubic feet
+NGEPCNS_PJ,"Electric power sector  consumption of natural gas, Mid-Atlantic (PJM)",billion cubic feet
+NGEPCNS_SE,"Electric power sector  consumption of natural gas, Southeast (SERC)",billion cubic feet
+NGEPCNS_SP,"Electric power sector  consumption of natural gas, Central (SPP ISO)",billion cubic feet
+NGEPCNS_SW,"Electric power sector  consumption of natural gas, Southwest",billion cubic feet
+NGEPCNS_TX,"Electric power sector  consumption of natural gas, Texas (ERCOT)",billion cubic feet
+NGEPCNS_US,"Electric power sector  consumption of natural gas, United States",billion cubic feet
+PAEPCNS_CA,"Electric power sector  consumption of petroleum, California",thousand barrels
+PAEPCNS_FL,"Electric power sector  consumption of petroleum, Florida (FRCC)",thousand barrels
+PAEPCNS_HA,"Electric power sector  consumption of petroleum, Hawaii and Alaska",thousand barrels
+PAEPCNS_MW,"Electric power sector  consumption of petroleum, Midwest (Midcontinent ISO)",thousand barrels
+PAEPCNS_NE,"Electric power sector  consumption of petroleum, New England (ISO-NE)",thousand barrels
+PAEPCNS_NW,"Electric power sector  consumption of petroleum, Northwest",thousand barrels
+PAEPCNS_NY,"Electric power sector  consumption of petroleum, New York (NYISO)",thousand barrels
+NGEPGEN_US,"Electric power sector net generation from natural gas, United States",billion kilowatthours
+CLEPGEN_US,"Electric power sector net generation from coal, United States",billion kilowatthours
+NUEPGEN_US,"Electric power sector net generation from nuclear, United States",billion kilowatthours
+HPEPGEN_US,"Electric power sector net generation from pumped storage hydropower, United States",billion kilowatthours
+NGEPCNS_NE,"Electric power sector  consumption of natural gas, New England (ISO-NE)",billion cubic feet
+SOCHGEN_US,"Industrial and commercial sector net generation from utility-scale solar, United States",billion kilowatthours
+NGEPCNS_MW,"Electric power sector  consumption of natural gas, Midwest (Midcontinent ISO)",billion cubic feet
+NGEPCNS_FL,"Electric power sector  consumption of natural gas, Florida (FRCC)",billion cubic feet
+WWCHGEN_US,"Industrial and commercial sector net generation from wood biomass, United States",billion kilowatthours
+BTTCBUS,"Biodiesel, Renewable Diesel, and Other",Quadrillion Btu
+CLCMCNS_US,"Commercial sector consumption of coal, United States",thousand short tons
+NGCMCNS_US,"Commercial sector consumption of natural gas, United States",billion cubic feet
+PACMCNS_US,"Commercial sector consumption of petroleum, United States",thousand barrels
+CLEPCNS_CA,"Electric power sector  consumption of coal, California",thousand short tons
+CLEPCNS_FL,"Electric power sector  consumption of coal, Florida (FRCC)",thousand short tons
+CLEPCNS_HA,"Electric power sector  consumption of coal, Hawaii and Alaska",thousand short tons
+CLEPCNS_MW,"Electric power sector  consumption of coal, Midwest (Midcontinent ISO)",thousand short tons
+CLEPCNS_NE,"Electric power sector  consumption of coal, New England (ISO-NE)",thousand short tons
+CLEPCNS_NW,"Electric power sector  consumption of coal, Northwest",thousand short tons
+CLEPCNS_NY,"Electric power sector  consumption of coal, New York (NYISO)",thousand short tons
+CLEPCNS_PJ,"Electric power sector  consumption of coal, Mid-Atlantic (PJM)",thousand short tons
+CLEPCNS_SE,"Electric power sector  consumption of coal, Southeast (SERC)",thousand short tons
+CLEPCNS_SP,"Electric power sector  consumption of coal, Central (SPP ISO)",thousand short tons
+CLEPCNS_SW,"Electric power sector  consumption of coal, Southwest",thousand short tons
+CLEPCNS_TX,"Electric power sector  consumption of coal, Texas (ERCOT)",thousand short tons
+CLEPCNS_US,"Electric power sector  consumption of coal, United States",thousand short tons
+NGEPCNS_CA,"Electric power sector  consumption of natural gas, California",billion cubic feet
+NGEPCNS_HA,"Electric power sector  consumption of natural gas, Hawaii and Alaska",billion cubic feet
+GEEPGEN_SP,"Electric power sector net generation from geothermal, Central (SPP ISO)",billion kilowatthours
+PAEPGEN_SW,"Electric power sector net generation from petroleum, Southwest",billion kilowatthours
+WNEPGEN_SP,"Electric power sector net generation from wind, Central (SPP ISO)",billion kilowatthours
+ELCCP_SAC,"Retail Sales of Electricity in Commercial Sector, South Atlantic",billion kilowatthours
+SOEPGEN_SP,"Electric power sector net generation from utility-scale solar, Central (SPP ISO)",billion kilowatthours
+ELICTWH,"Retail Sales of Electricity in Industrial Sector, U.S. Total",billion kilowatthours
+COPC_GB,Gabon Crude Oil Production Capacity,million barres per day
+COPR_GB,"Crude Oil Production, Gabon",million barrles per day
+COPS_GB,Gabon Spare Crude Oil Production Capacity,million barrels per day
+COPC_EK,Equatorial Guinea Crude Oil Production Capacity,million barrels per day
+COPR_EK,"Crude Oil Production, Equatorial Guinea",million barrels per day
+COPS_EK,Equatorial Guinea Spare Crude Oil Production Capacity,million barrels per day
+C3PSPP1,Propane PADD 1 (East Coast) Inventory,"million barrels, end-of-period"
+C3PSPP2,Propane PADD 2 (Midwest) Inventory,"million barrels, end-of-period"
+C3PSPP4,Propane PADD 4 (Rocky Mountain) Inventory,"million barrels, end-of-period"
+C3PSPP5,Propane PADD 5 (West Coast) Inventory,"million barrels, end-of-period"
+C3PSPUS,Propane US Total Inventory,"million barrels, end-of-period"
+C3TCPUS,Propane Consumption,million barrels per day
+P3IMPUS,Propylene (refinery-grade) Gross Imports,million barrels per day
+P3PSPP1,Propylene (refinery-grade) PADD 1 (East Coast) Inventory,"million barrels, end-of-period"
+P3PSPP2,Propylene (refinery-grade) PADD 2 (Midwest) Inventory,"million barrels, end-of-period"
+P3PSPP3,Propylene (refinery-grade) PADD 3 (Gulf Coast) Inventory,"million barrels, end-of-period"
+ELCCP_PAC,"Retail Sales of Electricity in Commercial Sector, Pacific Contiguous",billion kilowatthours
+P3PSPUS,Propylene (refinery-grade) US Total Inventory,"million barrels, end-of-period"
+ELCCP_HAK,"Retail Sales of Electricity in Commercial Sector, Alaska and Hawaii",billion kilowatthours
+ELCCP_WSC,"Retail Sales of Electricity in Commercial Sector, West South Central",billion kilowatthours
+SOCCBUS,Commercial Sector Consumption of Solar Energy,Quadrillion Btu
+ELRCTWH,"Retail Sales of Electricity in Residential Sector, U.S. Total",billion kilowatthours
+ELRCP_ENC,"Retail Sales of Electricity in Residential Sector, East North Central",billion kilowatthours
+ELRCP_ESC,"Retail Sales of Electricity in Residential Sector, East South Central",billion kilowatthours
+ELRCP_MAC,"Retail Sales of Electricity in Residential Sector, Middle Atlantic",billion kilowatthours
+ELRCP_MTN,"Retail Sales of Electricity in Residential Sector, Mountain",billion kilowatthours
+ELRCP_NEC,"Retail Sales of Electricity in Residential Sector, New England",billion kilowatthours
+ELRCP_WSC,"Retail Sales of Electricity in Residential Sector, West South Central",billion kilowatthours
+ELRCP_WNC,"Retail Sales of Electricity in Residential Sector, West North Central",billion kilowatthours
+ELRCP_HAK,"Retail Sales of Electricity in Residential Sector, Alaska and Hawaii",billion kilowatthours
+ELRCP_PAC,"Retail Sales of Electricity in Residential Sector, Pacific Contiguous",billion kilowatthours
+ELRCP_SAC,"Retail Sales of Electricity in Residential Sector, South Atlantic",billion kilowatthours
+ELRCP_US,"Retail Sales of Electricity in Residential Sector, U.S. Total",billion kilowatthours
+ELCCTWH,"Retail Sales of Electricity in Commercial Sector, U.S. Total",billion kilowatthours
+ELCCP_ENC,"Retail Sales of Electricity in Commercial Sector, East North Central",billion kilowatthours
+ELCCP_ESC,"Retail Sales of Electricity in Commercial Sector, East South Central",billion kilowatthours
+ELCCP_MAC,"Retail Sales of Electricity in Commercial Sector, Middle Atlantic",billion kilowatthours
+ELCCP_MTN,"Retail Sales of Electricity in Commercial Sector, Mountain",billion kilowatthours
+ELCCP_NEC,"Retail Sales of Electricity in Commercial Sector, New England",billion kilowatthours
+ELCCP_WNC,"Retail Sales of Electricity in Commercial Sector, West North Central",billion kilowatthours
+P3TCPUS,Propylene (refinery-grade) Consumption,million barrels per day
+ELCCP_US,"Retail Sales of Electricity in Commercial Sector, U.S. Total",billion kilowatthours
+ELICP_ESC,"Retail Sales of Electricity in Industrial Sector, East South Central",billion kilowatthours
+ELTCP_ENC,"Total Retail Sales of Electricity in All Sectors, East North Central",billion kilowatthours
+ELTCP_ESC,"Total Retail Sales of Electricity in All Sectors, East South Central",billion kilowatthours
+ELTCP_MAC,"Total Retail Sales of Electricity in All Sectors, Middle Atlantic",billion kilowatthours
+C3PSPP3,Propane PADD 3 (Gulf Coast) Inventory,"million barrels, end-of-period"
+ELTCP_MTN,"Total Retail Sales of Electricity in All Sectors, Mountain",billion kilowatthours
+ELTCP_NEC,"Total Retail Sales of Electricity in All Sectors, New England",billion kilowatthours
+ELTCP_WSC,"Total Retail Sales of Electricity in All Sectors, West South Central",billion kilowatthours
+ELTCP_WNC,"Total Retail Sales of Electricity in All Sectors, West North Central",billion kilowatthours
+RNEPGEN_SE,"Electric power sector net generation from renewables excluding hydropower, Southeast (SERC)",billion kilowatthours
+PAEPGEN_SE,"Electric power sector net generation from petroleum, Southeast (SERC)",billion kilowatthours
+OGEPGEN_SE,"Electric power sector net generation from other fossil gases, Southeast (SERC)",billion kilowatthours
+XXEPGEN_SE,"Electric power sector net generation from other energy sources, Southeast (SERC)",billion kilowatthours
+TOEPGEN_SE,"Electric power sector total net generation from all types of energy sources, Southeast (SERC)",billion kilowatthours
+ELLOAD_SE,"Net energy for electricity load, Southeast (SERC)",billion kilowatthours
+NGEPGEN_SP,"Electric power sector net generation from natural gas, Central (SPP ISO)",billion kilowatthours
+CLEPGEN_SP,"Electric power sector net generation from coal, Central (SPP ISO)",billion kilowatthours
+NUEPGEN_SP,"Electric power sector net generation from nuclear, Central (SPP ISO)",billion kilowatthours
+HPEPGEN_SP,"Electric power sector net generation from pumped storage hydropower, Central (SPP ISO)",billion kilowatthours
+ELICP_ENC,"Retail Sales of Electricity in Industrial Sector, East North Central",billion kilowatthours
+ELTCTWH,"Total Retail Sales of Electricity in All Sectors, U.S. Total",billion kilowatthours
+ELACP_US,"Retail Sales of Electricity in Transportation Sector, U.S. Total",billion kilowatthours
+HVEPGEN_SP,"Electric power sector net generation from conventional hydropower, Central (SPP ISO)",billion kilowatthours
+ELACP_PAC,"Retail Sales of Electricity in Transportation Sector, Pacific Contiguous",billion kilowatthours
+ELACP_SAC,"Retail Sales of Electricity in Transportation Sector, South Atlantic",billion kilowatthours
+ELICP_MTN,"Retail Sales of Electricity in Industrial Sector, Mountain",billion kilowatthours
+ELICP_NEC,"Retail Sales of Electricity in Industrial Sector, New England",billion kilowatthours
+ELICP_WSC,"Retail Sales of Electricity in Industrial Sector, West South Central",billion kilowatthours
+ELICP_WNC,"Retail Sales of Electricity in Industrial Sector, West North Central",billion kilowatthours
+ELICP_HAK,"Retail Sales of Electricity in Industrial Sector, Alaska and Hawaii",billion kilowatthours
+ELICP_PAC,"Retail Sales of Electricity in Industrial Sector, Pacific Contiguous",billion kilowatthours
+ELICP_SAC,"Retail Sales of Electricity in Industrial Sector, South Atlantic",billion kilowatthours
+ELICP_US,"Retail Sales of Electricity in Industrial Sector, U.S. Total",billion kilowatthours
+ELICP_MAC,"Retail Sales of Electricity in Industrial Sector, Middle Atlantic",billion kilowatthours
+ELACP_ENC,"Retail Sales of Electricity in Transportation Sector, East North Central",billion kilowatthours
+ELACP_ESC,"Retail Sales of Electricity in Transportation Sector, East South Central",billion kilowatthours
+ELACP_MAC,"Retail Sales of Electricity in Transportation Sector, Middle Atlantic",billion kilowatthours
+ELACP_MTN,"Retail Sales of Electricity in Transportation Sector, Mountain",billion kilowatthours
+ELACP_NEC,"Retail Sales of Electricity in Transportation Sector, New England",billion kilowatthours
+ELACP_WSC,"Retail Sales of Electricity in Transportation Sector, West South Central",billion kilowatthours
+ELACP_WNC,"Retail Sales of Electricity in Transportation Sector, West North Central",billion kilowatthours
+ELACP_HAK,"Retail Sales of Electricity in Transportation Sector, Alaska and Hawaii",billion kilowatthours
+ELACTWH,"Retail Sales of Electricity in Transportation Sector, U.S. Total",billion kilowatthours
+ELWHU_SP,"Wholesale Electricity Price, SPP (Southwest Power Pool ISO) South hub",dollars per megawatthour
+PADI_NO,"Unplanned crude oil production disruptions, Norway",million barrels per day
+PADI_UK,"Unplanned liquid fuel production disruptions, United Kingdom",million barrels per day
+RDNIPUS,Renwable Diesel Net Imports,million barrels per day
+BACHCGW_US,U.S. commercial and industrial sectors battery storage net summer generating capacity,gigawatts
+BFSUPPLY,Total Biofuels Supply,million barrels per day
+DASUPPLY,Total Distillate Fuel Oil Supply,million barrels per day
+GECHCGW_US,U.S. commercial and industrial sectors geothermal net summer generating capacity,gigawatts
+COTRPUS,Transfers to crude oil supply ,million barrels per day
+PATRPUS,Petroleum products transfers to crude oil supply ,million barrels per day
+PRRCAMW,Propane Retail Price Incl Taxes Midwest,cents per gallon
+PRRCANE,Propane Retail Price Incl Taxes Northeast,cents per gallon
+PRRCASO,Propane Retail Price Incl Taxes South,cents per gallon
+PRRCAUS,Propane Retail Price Incl Taxes  U.S. Average,dollars per gallon
+PRRCAP1,Retail PADD 1,dollars per gallon
+PRRCAP2,Retail PADD 2,dollars per gallon
+PRRCAP3,Retail PADD 3,dollars per gallon
+PRRCAP4,Retail PADD 4,dollars per gallon
