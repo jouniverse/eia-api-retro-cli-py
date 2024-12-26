@@ -10,7 +10,7 @@ This project is a Python application that allows you to interact with the EIA AP
 
 > Imagine that you are a high-powered analyst in an even more high-powered financial institution, and I am sure that you are one. Your ego is the size of Manhattan, but alas, your skillset is not quite in the metaverse yet. Don’t panic! This app is for you. It transports you into a bygone era of analytics, maybe seventies, or perhaps eighties. So, just lay back and let the terminal take you into a trip to the energy information administration’s database, in old school style, the best style there is.
 
-![EIA API MENU](./app/imgs/menu.JPG)
+![EIA API MENU](./menu.JPG)
 
 ## Installation
 
