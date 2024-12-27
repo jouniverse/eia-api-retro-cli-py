@@ -26,6 +26,9 @@ from utils.download_data import download_data
 # Print the logo
 from utils.logo_art import image_to_ascii
 
+print("-" * 100)
+print("ARPANET connection established @8080")
+print("-" * 100)
 # Path to the image file
 image_path = "./imgs/eia_logo.png"
 # You can tweak the new_width parameter for finer or coarser results.
@@ -114,4 +117,6 @@ if __name__ == "__main__":
     # print US map
     ascii_art = image_to_ascii(image_path, new_width=80)
     print(ascii_art)
+    print("-" * 100)
+    print("ARPANET disconnected @8080")
     print("-" * 100)
