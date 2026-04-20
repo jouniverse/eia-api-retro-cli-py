@@ -76,7 +76,7 @@ def parse_api_structure(file_path: str) -> Dict:
     return structure
 
 
-def display_api_structure(file_path: str = "./utils/api-structure.txt") -> None:
+def display_api_structure(file_path: str = "./app/utils/api-structure.txt") -> None:
     """
     Main function to display the EIA API structure.
 

@@ -1,7 +1,21 @@
+# OS generated files
 .DS_Store
+
 *.mp4
+
+# Ignore IDE and editor configuration files
+.vscode/
+.cursor/
+
+# Ignore virtual environment and cache directories
 .venv/
 __pycache__/
+**/__pycache__/
+
+#  Temporary files and logs
+*.log
+*.tmp
+*.bak
 api-structure/
 data/
 data-dump/
@@ -9,8 +23,19 @@ functions/
 main-imgs/
 metadata/
 notebooks/
-notes/
 main-output/
 response-examples/
 temp-data/
 
+# Contents of ./output folder
+output/*.csv
+
+# Ignore directories for testing and development
+freezer/
+notes/
+
+# Ignore environment variable files
+.env/
+app/.env
+api_key.py
+app/api_key.py

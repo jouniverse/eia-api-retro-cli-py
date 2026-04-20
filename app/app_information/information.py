@@ -41,9 +41,16 @@ URL_BASE = "https://api.eia.gov/v2/"
 
 def information():
     # All available endpoints
-    res = requests.get(URL_BASE, params={"api_key": API_KEY})
-    data = res.json()
-    # print(tabulate(data["response"]["routes"], headers="keys"))
+    try:
+        res = requests.get(URL_BASE, params={"api_key": API_KEY})
+        data = res.json()
+    except Exception as e:
+        print(f"Error connecting to API: {e}")
+        return
+
+    if not API_KEY:
+        print("Warning: API key is not set. Set it in app/api_key.py")
+
     print("-" * 100)
     print("ALL AVAILABLE MAIN ROUTES:")
     printInfo(data)

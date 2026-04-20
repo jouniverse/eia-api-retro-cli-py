@@ -2,6 +2,16 @@ import pandas as pd
 
 
 def printInfo(data, reduced_cols=False):
+    if "response" not in data:
+        print("Error: Could not retrieve data from API.")
+        if "error" in data:
+            print(f"API Error: {data['error']}")
+        return
+
+    if "routes" not in data["response"]:
+        print("No routes available for this endpoint.")
+        return
+
     df = pd.DataFrame(data["response"]["routes"])
     #  df columns = "id", "name", "description"
 
