@@ -34,5 +34,3 @@ notes/
 # Ignore environment variable files
 .env/
 app/.env
-api_key.py
-app/api_key.py
