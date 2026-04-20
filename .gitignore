@@ -27,9 +27,6 @@ main-output/
 response-examples/
 temp-data/
 
-# Contents of ./output folder
-output/*.csv
-
 # Ignore directories for testing and development
 freezer/
 notes/
